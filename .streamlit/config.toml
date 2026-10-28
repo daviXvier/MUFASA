@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#C99720"              # Amarelo queimado (botões e destaques)[cite: 24]
+backgroundColor = "#F5EBD3"           # Marrom café escuro (fundo principal da página)
+secondaryBackgroundColor = "#E2BD62"  # Marrom café intermediário (barra lateral e blocos)
+textColor = "#8C6410"                 # Creme quente (cor dos textos)[cite: 24]
+font = "sans serif"

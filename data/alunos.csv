@@ -1,0 +1,1001 @@
+id_aluno,nome_ficticio,id_curso,semestre_atual,idade,bairro,tipo_ensino_medio,apoio_psicossocial_solicitado,necessidade_acessibilidade
+ALU0001,Julia Araújo Silva,CUR01,2,23,Recanto do Sol,Regular presencial,Não,Não
+ALU0002,Camila Mendes Carvalho,CUR01,1,21,Anápolis City,Regular presencial,Sim,Sim
+ALU0003,Isabela Araújo Ribeiro,CUR01,3,17,Maracanã,Regular presencial,Não,Não
+ALU0004,Beatriz Ribeiro Santos,CUR01,7,31,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0005,Isabela Gomes Gomes,CUR01,4,29,Paraíso,Regular presencial,Não,Não
+ALU0006,Gabriel Ribeiro Teixeira,CUR01,1,23,Setor Industrial,Regular presencial,Não,Não
+ALU0007,João Araújo Silva,CUR01,5,26,Setor Industrial,EJA,Não,Não
+ALU0008,Letícia Rocha Silva,CUR01,2,18,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0009,João Pereira Costa,CUR01,2,26,Boa Vista,Regular presencial,Não,Não
+ALU0010,Ana Gomes Ferreira,CUR01,7,17,Boa Vista,Regular presencial,Não,Não
+ALU0011,Victor Almeida Gomes,CUR01,1,19,Setor Central,Regular presencial,Não,Não
+ALU0012,Amanda Lima Souza,CUR01,5,21,Anápolis City,Regular presencial,Não,Não
+ALU0013,Eduardo Santos Mendes,CUR01,7,26,Setor Central,Regular presencial,Não,Não
+ALU0014,Lucas Lima Santos,CUR01,3,27,Jibran El Hadj,Regular híbrido,Não,Não
+ALU0015,Gabriel Silva Pereira,CUR01,2,20,Anápolis City,Regular presencial,Não,Não
+ALU0016,Maria Rocha Silva,CUR01,2,20,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0017,Matheus Carvalho Rodrigues,CUR01,5,26,São Carlos,Regular presencial,Sim,Não
+ALU0018,Rafael Lima Teixeira,CUR01,6,28,Setor Industrial,EJA,Não,Não
+ALU0019,Felipe Lima Almeida,CUR01,1,20,São Carlos,EJA,Não,Não
+ALU0020,Thiago Carvalho Silva,CUR01,7,26,Setor Central,Regular presencial,Não,Não
+ALU0021,Luana Ferreira Lima,CUR01,1,20,Anápolis City,Regular presencial,Não,Não
+ALU0022,Amanda Mendes Carvalho,CUR01,4,26,Setor Central,Regular presencial,Não,Não
+ALU0023,Rafael Almeida Souza,CUR01,6,31,Setor Industrial,Regular presencial,Não,Não
+ALU0024,Renato Rocha Nunes,CUR01,2,20,Maracanã,Regular presencial,Não,Não
+ALU0025,Carlos Santos Ferreira,CUR01,7,27,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0026,Rafael Silva Rodrigues,CUR01,4,25,Jardim Alexandrina,Regular presencial,Não,Sim
+ALU0027,Eduardo Barbosa Almeida,CUR01,2,17,Anápolis City,Regular presencial,Não,Não
+ALU0028,Mariana Mendes Carvalho,CUR01,3,24,Recanto do Sol,Regular presencial,Não,Não
+ALU0029,Felipe Pereira Ribeiro,CUR01,8,17,Vila Jaiara,Regular presencial,Não,Não
+ALU0030,Pedro Martins Souza,CUR01,7,23,Vivian Parque,Regular híbrido,Não,Não
+ALU0031,Lucas Araújo Ribeiro,CUR01,6,19,Boa Vista,Regular presencial,Não,Não
+ALU0032,Matheus Ribeiro Santos,CUR01,1,17,São Carlos,Regular presencial,Não,Não
+ALU0033,Letícia Costa Lima,CUR01,2,20,São Carlos,Regular presencial,Não,Não
+ALU0034,Julia Oliveira Rocha,CUR01,4,21,Boa Vista,Regular presencial,Não,Sim
+ALU0035,Renato Teixeira Nunes,CUR01,5,26,Maracanã,Regular presencial,Não,Não
+ALU0036,Lucas Gomes Mendes,CUR01,2,17,Jundiaí,Regular presencial,Não,Não
+ALU0037,Gustavo Teixeira Gomes,CUR01,3,24,Paraíso,Regular presencial,Não,Não
+ALU0038,Mariana Ferreira Martins,CUR01,7,27,Setor Industrial,Regular presencial,Não,Não
+ALU0039,Isabela Gomes Pereira,CUR01,2,24,Setor Central,Regular híbrido,Sim,Não
+ALU0040,Felipe Martins Mendes,CUR01,3,17,Vila Jaiara,Regular presencial,Não,Não
+ALU0041,Thiago Gomes Lima,CUR01,3,17,Jibran El Hadj,Regular presencial,Não,Não
+ALU0042,Amanda Souza Oliveira,CUR01,5,21,Residencial das Rosas,Regular presencial,Não,Não
+ALU0043,Lucas Martins Souza,CUR01,3,21,Residencial das Rosas,Regular presencial,Não,Não
+ALU0044,Ana Carvalho Barbosa,CUR01,3,23,Setor Industrial,Regular híbrido,Não,Não
+ALU0045,Letícia Barbosa Santos,CUR01,1,17,Vivian Parque,Regular presencial,Não,Não
+ALU0046,Amanda Teixeira Almeida,CUR01,5,22,Paraíso,Regular presencial,Não,Não
+ALU0047,Larissa Silva Carvalho,CUR01,4,17,Filostro Machado,Regular presencial,Sim,Não
+ALU0048,Letícia Costa Rodrigues,CUR01,8,21,Vila Jaiara,Regular presencial,Não,Não
+ALU0049,Maria Ribeiro Santos,CUR01,5,32,Jundiaí,Regular presencial,Sim,Não
+ALU0050,Lucas Barbosa Almeida,CUR01,3,19,Filostro Machado,Regular presencial,Não,Não
+ALU0051,Amanda Pereira Silva,CUR01,1,25,São Carlos,Regular presencial,Não,Não
+ALU0052,Rafael Teixeira Oliveira,CUR01,7,29,Jundiaí,Regular presencial,Não,Não
+ALU0053,Carlos Mendes Costa,CUR01,8,31,Boa Vista,Regular híbrido,Não,Não
+ALU0054,Isabela Barbosa Souza,CUR01,4,17,Vila Jaiara,Regular presencial,Não,Não
+ALU0055,Ana Nunes Santos,CUR01,2,20,São Carlos,Regular presencial,Não,Não
+ALU0056,Isabela Rocha Rocha,CUR01,1,20,Vila Jaiara,Regular presencial,Não,Não
+ALU0057,Felipe Rodrigues Nunes,CUR01,3,17,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0058,Gabriel Carvalho Almeida,CUR01,1,17,Jibran El Hadj,Regular presencial,Não,Não
+ALU0059,Matheus Carvalho Ribeiro,CUR01,4,25,Recanto do Sol,Regular presencial,Não,Não
+ALU0060,Maria Costa Teixeira,CUR01,1,23,Boa Vista,EJA,Não,Sim
+ALU0061,Mariana Silva Pereira,CUR01,8,19,Setor Central,EJA,Não,Não
+ALU0062,Matheus Pereira Rocha,CUR01,2,24,Maracanã,Regular híbrido,Não,Não
+ALU0063,Lucas Rocha Ribeiro,CUR01,8,26,Residencial das Rosas,Regular presencial,Não,Não
+ALU0064,Renato Barbosa Silva,CUR01,5,18,Maracanã,Regular presencial,Não,Não
+ALU0065,Eduardo Almeida Rocha,CUR01,7,21,Vivian Parque,Regular híbrido,Não,Não
+ALU0066,Renato Lima Pereira,CUR01,3,22,Residencial das Rosas,Regular presencial,Não,Não
+ALU0067,Rafael Mendes Souza,CUR01,6,19,Jibran El Hadj,Regular presencial,Não,Não
+ALU0068,Lucas Almeida Araújo,CUR01,1,19,São Carlos,Regular presencial,Não,Não
+ALU0069,Rafael Oliveira Silva,CUR01,1,21,Maracanã,EJA,Não,Não
+ALU0070,Carlos Carvalho Silva,CUR01,1,17,Recanto do Sol,Regular presencial,Não,Não
+ALU0071,Matheus Souza Gomes,CUR01,4,17,Boa Vista,Regular presencial,Não,Não
+ALU0072,Eduardo Mendes Costa,CUR01,4,23,Jundiaí,Regular presencial,Não,Não
+ALU0073,Beatriz Costa Souza,CUR01,6,25,Jardim Alexandrina,Regular presencial,Sim,Não
+ALU0074,Carlos Pereira Almeida,CUR01,3,22,Anápolis City,Regular híbrido,Não,Sim
+ALU0075,Victor Carvalho Almeida,CUR01,5,23,Jibran El Hadj,Regular presencial,Sim,Não
+ALU0076,Renato Souza Almeida,CUR01,8,27,Maracanã,Regular presencial,Não,Não
+ALU0077,Bruno Almeida Oliveira,CUR01,4,18,Anápolis City,Regular presencial,Não,Não
+ALU0078,Victor Barbosa Mendes,CUR01,1,23,Vila Jaiara,Regular híbrido,Não,Não
+ALU0079,Lucas Santos Souza,CUR01,4,27,Jibran El Hadj,Regular presencial,Não,Não
+ALU0080,Rafael Mendes Ribeiro,CUR01,2,17,Setor Central,Regular presencial,Não,Não
+ALU0081,Renato Mendes Oliveira,CUR01,4,22,São Carlos,EJA,Não,Sim
+ALU0082,Isabela Carvalho Araújo,CUR01,1,27,Setor Industrial,Regular presencial,Não,Não
+ALU0083,Gabriel Carvalho Rodrigues,CUR01,1,24,Maracanã,Regular presencial,Sim,Não
+ALU0084,Bruno Almeida Carvalho,CUR01,2,25,Residencial das Rosas,Regular presencial,Não,Sim
+ALU0085,Ana Costa Barbosa,CUR01,3,25,Filostro Machado,EJA,Não,Não
+ALU0086,Larissa Rodrigues Gomes,CUR01,8,27,Filostro Machado,Regular presencial,Não,Não
+ALU0087,Gabriel Rodrigues Rodrigues,CUR01,8,24,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0088,Victor Silva Martins,CUR01,8,28,Setor Central,Regular presencial,Não,Não
+ALU0089,Beatriz Souza Carvalho,CUR01,2,25,Anápolis City,Regular presencial,Não,Não
+ALU0090,João Santos Souza,CUR01,1,23,Boa Vista,Regular híbrido,Não,Não
+ALU0091,Bruno Pereira Ferreira,CUR01,6,17,Paraíso,Regular presencial,Não,Não
+ALU0092,Thiago Nunes Ribeiro,CUR01,1,18,Maracanã,Regular presencial,Não,Não
+ALU0093,Rafael Almeida Ribeiro,CUR01,4,18,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0094,Rafael Barbosa Martins,CUR01,6,17,Boa Vista,Regular presencial,Não,Não
+ALU0095,Letícia Ferreira Rocha,CUR01,3,29,Boa Vista,Regular presencial,Não,Não
+ALU0096,Rafael Santos Gomes,CUR01,1,18,Vivian Parque,Regular presencial,Não,Não
+ALU0097,Camila Lima Souza,CUR01,6,28,São Carlos,Regular presencial,Não,Não
+ALU0098,Julia Silva Santos,CUR01,2,17,Maracanã,Regular presencial,Sim,Não
+ALU0099,Matheus Mendes Araújo,CUR01,4,23,Vivian Parque,EJA,Não,Não
+ALU0100,Maria Costa Araújo,CUR01,4,19,Jundiaí,Regular presencial,Não,Não
+ALU0101,Lucas Silva Araújo,CUR01,2,23,Recanto do Sol,Regular presencial,Não,Não
+ALU0102,Larissa Silva Oliveira,CUR01,5,21,Filostro Machado,EJA,Não,Não
+ALU0103,Camila Carvalho Silva,CUR01,8,24,Paraíso,Regular presencial,Não,Não
+ALU0104,Victor Mendes Gomes,CUR01,7,24,Jibran El Hadj,Regular presencial,Não,Não
+ALU0105,Renato Ferreira Carvalho,CUR01,8,17,Jundiaí,Regular presencial,Não,Não
+ALU0106,Victor Mendes Pereira,CUR01,5,24,Setor Industrial,Regular presencial,Não,Não
+ALU0107,Eduardo Araújo Nunes,CUR01,3,26,Filostro Machado,EJA,Não,Não
+ALU0108,Larissa Oliveira Martins,CUR01,4,20,Anápolis City,Regular presencial,Não,Não
+ALU0109,Pedro Rodrigues Silva,CUR01,2,17,Maracanã,Regular presencial,Não,Não
+ALU0110,Rafael Costa Ribeiro,CUR01,2,21,Setor Industrial,Regular presencial,Não,Não
+ALU0111,Lucas Ribeiro Barbosa,CUR01,8,26,Setor Central,Regular presencial,Não,Sim
+ALU0112,Eduardo Costa Santos,CUR01,4,19,Anápolis City,EJA,Sim,Não
+ALU0113,Rafael Costa Souza,CUR01,7,24,Filostro Machado,Regular presencial,Não,Não
+ALU0114,Victor Carvalho Santos,CUR01,8,22,Recanto do Sol,Regular presencial,Não,Não
+ALU0115,Camila Carvalho Oliveira,CUR01,3,25,Residencial das Rosas,Regular presencial,Não,Não
+ALU0116,Lucas Nunes Silva,CUR01,7,17,Vivian Parque,Regular presencial,Sim,Não
+ALU0117,Ana Martins Lima,CUR01,5,18,Anápolis City,Regular híbrido,Não,Não
+ALU0118,Letícia Silva Pereira,CUR01,8,21,Boa Vista,EJA,Não,Não
+ALU0119,Larissa Ribeiro Nunes,CUR01,4,20,Paraíso,EJA,Sim,Não
+ALU0120,Thiago Ferreira Rodrigues,CUR01,8,27,Maracanã,Regular presencial,Não,Não
+ALU0121,Letícia Ferreira Martins,CUR01,5,25,Jundiaí,Regular presencial,Sim,Não
+ALU0122,Renato Carvalho Santos,CUR01,5,20,Vila Jaiara,Regular presencial,Sim,Não
+ALU0123,Matheus Ribeiro Nunes,CUR01,1,22,Setor Industrial,Regular presencial,Sim,Não
+ALU0124,Ana Teixeira Ferreira,CUR01,8,31,Jibran El Hadj,Regular híbrido,Não,Não
+ALU0125,Victor Lima Araújo,CUR01,3,17,Anápolis City,Regular híbrido,Não,Não
+ALU0126,Luana Silva Nunes,CUR01,7,28,Setor Industrial,Regular presencial,Não,Não
+ALU0127,João Mendes Ferreira,CUR01,8,29,Jibran El Hadj,Regular presencial,Sim,Não
+ALU0128,Julia Teixeira Nunes,CUR01,3,17,Setor Central,Regular presencial,Não,Não
+ALU0129,Lucas Rocha Martins,CUR01,6,19,Vila Jaiara,Regular presencial,Não,Não
+ALU0130,Gustavo Costa Gomes,CUR01,7,25,Paraíso,Regular presencial,Não,Sim
+ALU0131,Felipe Oliveira Rocha,CUR01,8,27,São Carlos,Regular presencial,Não,Não
+ALU0132,Luana Santos Mendes,CUR01,6,18,Residencial das Rosas,Regular híbrido,Sim,Não
+ALU0133,Pedro Pereira Silva,CUR01,7,27,Setor Industrial,Regular presencial,Não,Não
+ALU0134,Mariana Oliveira Costa,CUR01,5,22,Filostro Machado,Regular presencial,Não,Não
+ALU0135,Carlos Ribeiro Martins,CUR01,3,24,Boa Vista,EJA,Não,Não
+ALU0136,Luana Ribeiro Ribeiro,CUR01,3,24,Vivian Parque,Regular presencial,Sim,Não
+ALU0137,Rafael Martins Teixeira,CUR01,2,17,Setor Central,Regular híbrido,Não,Não
+ALU0138,Thiago Santos Gomes,CUR01,2,21,Vivian Parque,Regular presencial,Não,Não
+ALU0139,João Araújo Ribeiro,CUR01,5,23,Setor Central,Regular presencial,Não,Não
+ALU0140,Eduardo Ribeiro Souza,CUR01,2,29,Boa Vista,Regular presencial,Sim,Não
+ALU0141,Victor Ferreira Araújo,CUR01,8,20,Vivian Parque,Regular presencial,Não,Não
+ALU0142,Ana Carvalho Ribeiro,CUR01,6,17,Setor Central,Regular presencial,Não,Não
+ALU0143,Isabela Martins Martins,CUR01,2,24,Setor Central,Regular presencial,Não,Não
+ALU0144,Beatriz Silva Araújo,CUR01,6,25,Residencial das Rosas,Regular presencial,Não,Não
+ALU0145,Gabriel Ribeiro Rocha,CUR01,7,25,Boa Vista,Regular presencial,Não,Não
+ALU0146,Isabela Nunes Souza,CUR01,2,21,Maracanã,Regular híbrido,Não,Não
+ALU0147,Carlos Nunes Araújo,CUR01,2,32,Jundiaí,Regular presencial,Não,Não
+ALU0148,Felipe Lima Rodrigues,CUR01,2,24,Setor Industrial,Regular presencial,Não,Não
+ALU0149,Amanda Almeida Ferreira,CUR01,4,23,Vivian Parque,Regular presencial,Sim,Não
+ALU0150,Gabriel Souza Almeida,CUR01,6,20,Vila Jaiara,Regular presencial,Não,Não
+ALU0151,Carlos Costa Nunes,CUR01,7,22,Jardim Alexandrina,Regular presencial,Sim,Não
+ALU0152,Mariana Nunes Teixeira,CUR01,4,17,Jibran El Hadj,Regular presencial,Não,Não
+ALU0153,Isabela Mendes Araújo,CUR01,2,24,Filostro Machado,Regular presencial,Não,Não
+ALU0154,Carlos Lima Souza,CUR01,6,17,São Carlos,Regular presencial,Sim,Não
+ALU0155,Pedro Lima Santos,CUR01,1,21,Boa Vista,Regular presencial,Não,Não
+ALU0156,Bruno Carvalho Ferreira,CUR01,6,27,Maracanã,Regular presencial,Sim,Não
+ALU0157,Felipe Martins Ferreira,CUR01,2,19,Vivian Parque,Regular presencial,Não,Não
+ALU0158,Beatriz Teixeira Gomes,CUR01,1,21,Paraíso,EJA,Sim,Não
+ALU0159,Carlos Costa Teixeira,CUR01,3,17,Paraíso,Regular presencial,Não,Não
+ALU0160,Beatriz Ribeiro Gomes,CUR01,5,18,Maracanã,EJA,Não,Não
+ALU0161,Mariana Araújo Mendes,CUR01,2,19,Setor Central,EJA,Sim,Não
+ALU0162,Rafael Costa Lima,CUR01,4,28,São Carlos,Regular híbrido,Não,Não
+ALU0163,Bruno Barbosa Pereira,CUR01,6,22,Maracanã,Regular presencial,Sim,Sim
+ALU0164,Carlos Ribeiro Gomes,CUR01,5,20,Boa Vista,EJA,Não,Não
+ALU0165,Eduardo Carvalho Rocha,CUR01,5,21,Filostro Machado,Regular presencial,Não,Não
+ALU0166,João Rodrigues Gomes,CUR01,1,25,Paraíso,Regular presencial,Não,Não
+ALU0167,Julia Lima Nunes,CUR01,7,25,Vila Jaiara,Regular híbrido,Sim,Não
+ALU0168,Felipe Souza Ferreira,CUR01,4,23,Paraíso,Regular presencial,Não,Não
+ALU0169,João Martins Oliveira,CUR01,2,21,Residencial das Rosas,Regular presencial,Não,Não
+ALU0170,Pedro Oliveira Rodrigues,CUR01,4,22,Setor Industrial,Regular presencial,Não,Não
+ALU0171,Amanda Lima Pereira,CUR01,1,28,Anápolis City,Regular presencial,Não,Não
+ALU0172,Gustavo Santos Costa,CUR01,5,25,Setor Industrial,EJA,Sim,Sim
+ALU0173,Camila Araújo Pereira,CUR01,3,24,Jundiaí,Regular presencial,Não,Não
+ALU0174,Pedro Martins Rocha,CUR01,7,17,São Carlos,EJA,Não,Não
+ALU0175,Gustavo Ferreira Araújo,CUR01,3,18,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0176,Julia Silva Santos,CUR01,2,19,Jundiaí,Regular presencial,Não,Não
+ALU0177,Thiago Carvalho Araújo,CUR01,7,20,Residencial das Rosas,Regular presencial,Não,Não
+ALU0178,Bruno Souza Oliveira,CUR01,6,17,Vivian Parque,Regular presencial,Não,Não
+ALU0179,Pedro Costa Pereira,CUR01,1,24,Vivian Parque,Regular híbrido,Sim,Não
+ALU0180,Eduardo Santos Carvalho,CUR01,5,22,Paraíso,Regular presencial,Não,Sim
+ALU0181,João Oliveira Santos,CUR01,7,17,Jibran El Hadj,Regular presencial,Sim,Não
+ALU0182,Luana Martins Araújo,CUR01,8,24,Maracanã,Regular presencial,Não,Não
+ALU0183,Felipe Pereira Pereira,CUR01,8,30,Vivian Parque,Regular híbrido,Não,Não
+ALU0184,Renato Nunes Mendes,CUR01,3,19,Setor Industrial,Regular presencial,Não,Não
+ALU0185,Victor Ferreira Rocha,CUR01,3,19,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0186,Luana Barbosa Ferreira,CUR01,2,17,Vila Jaiara,Regular presencial,Não,Não
+ALU0187,Isabela Rodrigues Costa,CUR01,1,25,Residencial das Rosas,Regular presencial,Não,Não
+ALU0188,Beatriz Ribeiro Carvalho,CUR01,8,21,Setor Central,Regular presencial,Não,Não
+ALU0189,Maria Rodrigues Mendes,CUR01,8,28,Anápolis City,Regular presencial,Sim,Não
+ALU0190,Victor Teixeira Almeida,CUR01,4,17,Jundiaí,Regular presencial,Não,Não
+ALU0191,Pedro Teixeira Carvalho,CUR01,6,22,Boa Vista,Regular presencial,Não,Não
+ALU0192,Amanda Nunes Almeida,CUR01,4,25,Residencial das Rosas,Regular presencial,Não,Não
+ALU0193,Eduardo Souza Souza,CUR01,5,30,Recanto do Sol,EJA,Não,Não
+ALU0194,Gabriel Oliveira Teixeira,CUR01,5,35,Jardim Alexandrina,Regular híbrido,Sim,Não
+ALU0195,Bruno Gomes Pereira,CUR01,3,29,Paraíso,Regular presencial,Não,Sim
+ALU0196,Maria Carvalho Teixeira,CUR01,1,22,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0197,Matheus Barbosa Nunes,CUR01,4,23,Vila Jaiara,Regular presencial,Não,Não
+ALU0198,João Souza Teixeira,CUR01,4,27,Vivian Parque,Regular presencial,Não,Não
+ALU0199,Carlos Costa Araújo,CUR01,3,22,São Carlos,Regular presencial,Sim,Sim
+ALU0200,Luana Ferreira Carvalho,CUR01,6,18,Recanto do Sol,Regular híbrido,Não,Sim
+ALU0201,Rafael Pereira Ferreira,CUR01,4,24,Residencial das Rosas,Regular híbrido,Não,Não
+ALU0202,João Santos Teixeira,CUR01,6,17,Anápolis City,Regular presencial,Não,Não
+ALU0203,Ana Gomes Rocha,CUR01,1,23,Jundiaí,Regular presencial,Não,Não
+ALU0204,Larissa Teixeira Rocha,CUR01,8,30,Maracanã,Regular presencial,Sim,Não
+ALU0205,Beatriz Teixeira Rocha,CUR01,6,29,Residencial das Rosas,Regular presencial,Não,Não
+ALU0206,Thiago Carvalho Carvalho,CUR01,5,20,Paraíso,Regular presencial,Sim,Não
+ALU0207,Beatriz Lima Almeida,CUR01,3,18,Vivian Parque,Regular híbrido,Não,Não
+ALU0208,Victor Almeida Gomes,CUR01,1,22,Maracanã,Regular presencial,Não,Não
+ALU0209,Rafael Martins Mendes,CUR01,3,26,Anápolis City,Regular presencial,Não,Não
+ALU0210,Letícia Nunes Teixeira,CUR01,2,27,Boa Vista,Regular presencial,Não,Não
+ALU0211,Lucas Rodrigues Rocha,CUR01,2,30,Boa Vista,Regular híbrido,Não,Não
+ALU0212,João Nunes Rodrigues,CUR01,4,23,Filostro Machado,Regular presencial,Não,Não
+ALU0213,Thiago Carvalho Teixeira,CUR01,2,17,Maracanã,Regular híbrido,Não,Não
+ALU0214,Julia Martins Ribeiro,CUR01,5,27,Anápolis City,Regular presencial,Não,Não
+ALU0215,Pedro Ferreira Araújo,CUR01,6,17,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0216,Gabriel Gomes Nunes,CUR01,2,27,Maracanã,Regular presencial,Sim,Sim
+ALU0217,Gabriel Silva Rocha,CUR01,5,18,Setor Industrial,Regular presencial,Não,Não
+ALU0218,Felipe Almeida Oliveira,CUR01,4,21,Vivian Parque,Regular presencial,Não,Não
+ALU0219,Pedro Almeida Mendes,CUR01,1,26,Setor Central,Regular presencial,Não,Não
+ALU0220,Gustavo Carvalho Gomes,CUR01,6,19,São Carlos,EJA,Não,Não
+ALU0221,Gustavo Barbosa Araújo,CUR01,8,19,Boa Vista,EJA,Não,Não
+ALU0222,Eduardo Gomes Mendes,CUR01,7,23,Setor Industrial,Regular presencial,Não,Não
+ALU0223,Mariana Mendes Carvalho,CUR01,4,26,Residencial das Rosas,Regular presencial,Não,Não
+ALU0224,João Nunes Ribeiro,CUR01,7,23,Jundiaí,Regular híbrido,Não,Não
+ALU0225,Thiago Lima Araújo,CUR01,3,21,Jundiaí,Regular presencial,Não,Não
+ALU0226,Eduardo Souza Gomes,CUR01,3,27,Filostro Machado,Regular presencial,Não,Não
+ALU0227,Eduardo Teixeira Carvalho,CUR01,5,17,Anápolis City,EJA,Sim,Não
+ALU0228,Camila Carvalho Almeida,CUR01,4,19,Vivian Parque,Regular presencial,Não,Não
+ALU0229,Bruno Oliveira Carvalho,CUR01,2,20,Vivian Parque,Regular presencial,Não,Sim
+ALU0230,Larissa Santos Oliveira,CUR01,8,26,Setor Central,EJA,Não,Sim
+ALU0231,Larissa Rodrigues Silva,CUR01,5,27,Setor Industrial,Regular presencial,Não,Não
+ALU0232,Renato Costa Oliveira,CUR01,4,22,Anápolis City,Regular híbrido,Não,Não
+ALU0233,Bruno Lima Martins,CUR01,4,17,Filostro Machado,Regular presencial,Não,Não
+ALU0234,Amanda Souza Nunes,CUR01,2,26,Setor Industrial,Regular presencial,Não,Não
+ALU0235,Lucas Silva Carvalho,CUR01,6,28,Anápolis City,Regular presencial,Não,Não
+ALU0236,Amanda Barbosa Carvalho,CUR01,6,21,São Carlos,Regular presencial,Não,Não
+ALU0237,Victor Martins Oliveira,CUR01,3,25,Jundiaí,Regular presencial,Sim,Não
+ALU0238,Letícia Pereira Souza,CUR01,8,21,Residencial das Rosas,Regular presencial,Não,Não
+ALU0239,Camila Carvalho Lima,CUR01,1,27,Vila Jaiara,Regular presencial,Não,Não
+ALU0240,Ana Costa Silva,CUR01,2,28,Vila Jaiara,EJA,Não,Não
+ALU0241,Eduardo Souza Almeida,CUR01,2,17,São Carlos,Regular presencial,Não,Não
+ALU0242,Luana Araújo Araújo,CUR01,4,17,Anápolis City,Regular presencial,Não,Não
+ALU0243,Camila Oliveira Rocha,CUR01,3,21,Residencial das Rosas,Regular híbrido,Não,Não
+ALU0244,Larissa Ferreira Barbosa,CUR01,3,28,São Carlos,Regular presencial,Não,Não
+ALU0245,Thiago Nunes Teixeira,CUR01,4,17,Residencial das Rosas,Regular presencial,Sim,Não
+ALU0246,Camila Carvalho Gomes,CUR01,8,22,Jardim Alexandrina,Regular híbrido,Não,Não
+ALU0247,Bruno Martins Silva,CUR01,2,17,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0248,Julia Mendes Santos,CUR01,4,20,Anápolis City,Regular presencial,Não,Não
+ALU0249,Bruno Rodrigues Almeida,CUR01,2,27,São Carlos,Regular presencial,Não,Não
+ALU0250,Matheus Araújo Lima,CUR01,3,23,Residencial das Rosas,Regular presencial,Não,Não
+ALU0251,Mariana Martins Gomes,CUR01,5,17,Recanto do Sol,Regular presencial,Não,Não
+ALU0252,Matheus Silva Araújo,CUR01,7,21,Setor Central,Regular presencial,Não,Não
+ALU0253,Julia Silva Gomes,CUR01,6,17,São Carlos,Regular presencial,Não,Não
+ALU0254,Gabriel Lima Ribeiro,CUR01,6,25,Paraíso,Regular presencial,Não,Não
+ALU0255,Felipe Nunes Gomes,CUR01,5,24,Jundiaí,Regular híbrido,Não,Não
+ALU0256,Beatriz Souza Ribeiro,CUR01,5,23,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0257,Gustavo Nunes Lima,CUR01,4,25,Jundiaí,Regular presencial,Não,Não
+ALU0258,Isabela Teixeira Carvalho,CUR01,1,19,Jibran El Hadj,Regular presencial,Não,Não
+ALU0259,Rafael Nunes Santos,CUR01,4,23,Maracanã,Regular presencial,Não,Não
+ALU0260,Rafael Ferreira Lima,CUR01,8,18,Setor Central,Regular presencial,Não,Não
+ALU0261,Luana Almeida Rodrigues,CUR01,1,17,Jibran El Hadj,Regular presencial,Não,Não
+ALU0262,Rafael Martins Costa,CUR01,4,17,Boa Vista,Regular presencial,Não,Não
+ALU0263,Pedro Pereira Martins,CUR01,8,20,São Carlos,Regular híbrido,Não,Sim
+ALU0264,Amanda Barbosa Rodrigues,CUR01,1,25,Setor Industrial,Regular presencial,Não,Não
+ALU0265,Eduardo Ferreira Ribeiro,CUR01,3,21,Residencial das Rosas,Regular presencial,Não,Não
+ALU0266,Felipe Rodrigues Pereira,CUR01,8,17,Vila Jaiara,EJA,Não,Sim
+ALU0267,Maria Araújo Nunes,CUR01,6,24,Maracanã,Regular presencial,Não,Não
+ALU0268,Ana Mendes Barbosa,CUR01,2,19,Maracanã,Regular presencial,Sim,Não
+ALU0269,Beatriz Teixeira Lima,CUR01,6,27,Setor Central,Regular presencial,Não,Não
+ALU0270,Luana Oliveira Gomes,CUR01,8,23,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0271,Maria Martins Rocha,CUR01,1,17,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0272,Gustavo Gomes Mendes,CUR01,4,19,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0273,Thiago Silva Teixeira,CUR01,4,27,Vila Jaiara,Regular presencial,Não,Sim
+ALU0274,Matheus Oliveira Lima,CUR01,2,23,Setor Central,Regular presencial,Não,Não
+ALU0275,Thiago Souza Ribeiro,CUR01,2,17,Residencial das Rosas,Regular presencial,Não,Sim
+ALU0276,Bruno Araújo Teixeira,CUR01,6,17,Filostro Machado,Regular presencial,Não,Não
+ALU0277,Isabela Costa Mendes,CUR01,1,21,São Carlos,Regular presencial,Não,Não
+ALU0278,Maria Mendes Carvalho,CUR01,5,29,Filostro Machado,Regular presencial,Não,Não
+ALU0279,Lucas Araújo Martins,CUR01,2,18,São Carlos,Regular presencial,Não,Sim
+ALU0280,Carlos Araújo Ferreira,CUR01,7,23,Boa Vista,Regular híbrido,Não,Não
+ALU0281,Amanda Barbosa Silva,CUR01,1,25,Setor Industrial,Regular presencial,Não,Não
+ALU0282,Mariana Barbosa Rocha,CUR01,8,17,Anápolis City,Regular presencial,Sim,Não
+ALU0283,Renato Carvalho Oliveira,CUR01,7,26,Recanto do Sol,Regular presencial,Não,Não
+ALU0284,Gabriel Souza Carvalho,CUR01,6,24,Recanto do Sol,Regular presencial,Não,Não
+ALU0285,Felipe Martins Rodrigues,CUR01,5,27,Residencial das Rosas,Regular presencial,Não,Não
+ALU0286,Lucas Gomes Almeida,CUR01,2,23,Anápolis City,Regular híbrido,Não,Não
+ALU0287,Rafael Mendes Gomes,CUR01,5,25,Residencial das Rosas,Regular presencial,Não,Não
+ALU0288,Lucas Pereira Rodrigues,CUR01,2,20,Filostro Machado,Regular presencial,Não,Não
+ALU0289,Luana Silva Carvalho,CUR01,4,19,Paraíso,Regular híbrido,Não,Não
+ALU0290,Mariana Pereira Pereira,CUR01,4,18,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0291,Amanda Ferreira Costa,CUR01,1,20,Recanto do Sol,Regular presencial,Não,Não
+ALU0292,Felipe Martins Ferreira,CUR01,7,17,Recanto do Sol,Regular presencial,Não,Não
+ALU0293,Thiago Martins Gomes,CUR01,8,17,Maracanã,Regular híbrido,Não,Não
+ALU0294,Bruno Teixeira Martins,CUR01,5,21,Vila Jaiara,Regular presencial,Não,Não
+ALU0295,Larissa Rodrigues Lima,CUR01,4,17,Boa Vista,Regular presencial,Não,Não
+ALU0296,Lucas Silva Oliveira,CUR01,8,20,Setor Industrial,Regular presencial,Não,Não
+ALU0297,Maria Ribeiro Gomes,CUR01,8,17,Setor Central,Regular presencial,Sim,Não
+ALU0298,Isabela Almeida Oliveira,CUR01,8,23,Setor Industrial,Regular presencial,Não,Não
+ALU0299,Eduardo Mendes Mendes,CUR01,2,20,Setor Industrial,EJA,Sim,Não
+ALU0300,Camila Costa Silva,CUR01,7,22,Paraíso,Regular presencial,Não,Não
+ALU0301,Letícia Pereira Ferreira,CUR01,1,21,Setor Industrial,Regular presencial,Não,Não
+ALU0302,Bruno Rocha Ferreira,CUR01,8,28,Paraíso,Regular presencial,Sim,Não
+ALU0303,Isabela Silva Barbosa,CUR01,5,20,Jundiaí,Regular presencial,Não,Sim
+ALU0304,João Lima Oliveira,CUR01,8,17,Jardim Alexandrina,Regular presencial,Não,Sim
+ALU0305,Luana Barbosa Ribeiro,CUR01,3,25,Vila Jaiara,Regular presencial,Não,Não
+ALU0306,João Rocha Ribeiro,CUR01,5,25,Residencial das Rosas,Regular presencial,Sim,Não
+ALU0307,Camila Teixeira Rocha,CUR01,4,22,Recanto do Sol,Regular presencial,Não,Não
+ALU0308,Gabriel Rocha Teixeira,CUR01,1,24,Boa Vista,EJA,Não,Não
+ALU0309,Julia Ribeiro Lima,CUR01,1,22,Jardim Alexandrina,Regular presencial,Sim,Não
+ALU0310,Bruno Rodrigues Almeida,CUR01,5,25,São Carlos,Regular presencial,Não,Não
+ALU0311,Felipe Teixeira Oliveira,CUR01,4,22,Recanto do Sol,Regular presencial,Não,Não
+ALU0312,Ana Mendes Santos,CUR01,8,17,Recanto do Sol,Regular presencial,Sim,Sim
+ALU0313,Ana Ribeiro Martins,CUR01,8,25,Maracanã,Regular presencial,Não,Não
+ALU0314,Letícia Oliveira Almeida,CUR01,1,17,Setor Central,Regular presencial,Não,Não
+ALU0315,Matheus Gomes Santos,CUR01,2,22,Anápolis City,Regular híbrido,Não,Não
+ALU0316,Matheus Pereira Mendes,CUR01,8,23,Paraíso,Regular presencial,Não,Não
+ALU0317,Ana Rocha Rodrigues,CUR01,8,26,São Carlos,Regular híbrido,Não,Não
+ALU0318,Gustavo Teixeira Rodrigues,CUR01,4,21,Anápolis City,Regular presencial,Não,Sim
+ALU0319,Larissa Silva Teixeira,CUR01,3,20,Vila Jaiara,EJA,Não,Não
+ALU0320,Felipe Oliveira Mendes,CUR01,7,26,Residencial das Rosas,Regular híbrido,Não,Não
+ALU0321,Eduardo Souza Mendes,CUR01,2,24,Maracanã,EJA,Sim,Não
+ALU0322,Bruno Araújo Nunes,CUR01,5,27,Vila Jaiara,Regular presencial,Não,Não
+ALU0323,Victor Teixeira Silva,CUR01,4,21,Recanto do Sol,Regular presencial,Não,Não
+ALU0324,Pedro Oliveira Pereira,CUR01,6,18,Paraíso,Regular presencial,Não,Não
+ALU0325,Luana Rodrigues Carvalho,CUR01,6,23,São Carlos,EJA,Não,Não
+ALU0326,Matheus Araújo Costa,CUR01,7,17,Setor Central,Regular presencial,Não,Não
+ALU0327,Matheus Araújo Silva,CUR01,1,21,Anápolis City,Regular presencial,Não,Não
+ALU0328,Pedro Rocha Teixeira,CUR01,2,18,Setor Industrial,Regular presencial,Sim,Sim
+ALU0329,Camila Teixeira Pereira,CUR01,1,26,Jibran El Hadj,EJA,Não,Não
+ALU0330,Rafael Gomes Lima,CUR01,6,23,Residencial das Rosas,Regular presencial,Não,Não
+ALU0331,Julia Barbosa Oliveira,CUR01,4,23,Maracanã,Regular presencial,Não,Não
+ALU0332,Larissa Barbosa Araújo,CUR01,7,24,Vila Jaiara,Regular presencial,Sim,Não
+ALU0333,Letícia Mendes Ferreira,CUR01,1,20,Maracanã,Regular presencial,Não,Não
+ALU0334,Lucas Souza Araújo,CUR01,2,32,Setor Central,Regular presencial,Não,Não
+ALU0335,Ana Martins Ribeiro,CUR01,5,17,Boa Vista,Regular híbrido,Não,Não
+ALU0336,Letícia Santos Carvalho,CUR01,5,18,Paraíso,Regular presencial,Não,Não
+ALU0337,Matheus Rocha Araújo,CUR01,3,19,Setor Industrial,Regular presencial,Não,Não
+ALU0338,Thiago Carvalho Mendes,CUR01,1,22,Jundiaí,Regular híbrido,Não,Não
+ALU0339,João Mendes Almeida,CUR01,3,21,Residencial das Rosas,Regular presencial,Não,Não
+ALU0340,Amanda Rodrigues Teixeira,CUR01,1,22,Maracanã,Regular presencial,Não,Não
+ALU0341,Camila Gomes Rodrigues,CUR01,4,17,Anápolis City,Regular presencial,Sim,Não
+ALU0342,Eduardo Martins Araújo,CUR01,2,25,Recanto do Sol,Regular híbrido,Sim,Não
+ALU0343,Felipe Rodrigues Ribeiro,CUR01,4,25,Vila Jaiara,Regular presencial,Não,Não
+ALU0344,Amanda Ribeiro Araújo,CUR01,4,21,Setor Central,Regular presencial,Não,Não
+ALU0345,Isabela Almeida Lima,CUR01,7,18,Boa Vista,Regular presencial,Não,Não
+ALU0346,Renato Silva Souza,CUR01,7,17,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0347,Gustavo Barbosa Rodrigues,CUR01,3,18,Anápolis City,Regular presencial,Não,Não
+ALU0348,Mariana Costa Silva,CUR01,7,17,São Carlos,Regular híbrido,Sim,Não
+ALU0349,Gustavo Lima Lima,CUR01,8,20,Jibran El Hadj,Regular presencial,Não,Não
+ALU0350,Eduardo Lima Rocha,CUR01,8,21,Setor Central,Regular presencial,Não,Não
+ALU0351,Camila Barbosa Rodrigues,CUR01,5,24,Setor Central,Regular presencial,Não,Não
+ALU0352,Gustavo Gomes Almeida,CUR01,2,22,Recanto do Sol,Regular presencial,Não,Sim
+ALU0353,Bruno Almeida Carvalho,CUR01,3,17,Setor Industrial,Regular presencial,Não,Não
+ALU0354,Letícia Teixeira Rodrigues,CUR01,7,23,São Carlos,Regular presencial,Não,Não
+ALU0355,Amanda Oliveira Gomes,CUR01,5,31,Paraíso,Regular híbrido,Não,Não
+ALU0356,Luana Carvalho Rocha,CUR01,8,22,Setor Central,Regular presencial,Sim,Não
+ALU0357,Larissa Martins Lima,CUR01,8,22,Residencial das Rosas,Regular presencial,Não,Não
+ALU0358,Victor Araújo Rodrigues,CUR01,7,18,Boa Vista,Regular presencial,Não,Não
+ALU0359,Pedro Barbosa Mendes,CUR01,4,20,São Carlos,EJA,Não,Sim
+ALU0360,Letícia Santos Souza,CUR01,2,24,Vila Jaiara,Regular híbrido,Sim,Não
+ALU0361,Beatriz Araújo Gomes,CUR01,2,17,Setor Central,Regular presencial,Não,Não
+ALU0362,Gustavo Ferreira Costa,CUR01,4,20,São Carlos,EJA,Não,Não
+ALU0363,Luana Souza Ribeiro,CUR01,8,20,Setor Central,Regular presencial,Não,Não
+ALU0364,João Souza Ferreira,CUR01,1,19,Paraíso,EJA,Não,Não
+ALU0365,Maria Lima Martins,CUR01,2,17,Vivian Parque,Regular presencial,Sim,Não
+ALU0366,Isabela Nunes Barbosa,CUR01,3,19,Vila Jaiara,Regular híbrido,Não,Não
+ALU0367,Gabriel Carvalho Martins,CUR01,8,25,Jibran El Hadj,Regular presencial,Não,Não
+ALU0368,Amanda Almeida Silva,CUR01,4,22,Jundiaí,EJA,Não,Não
+ALU0369,Julia Almeida Costa,CUR01,3,25,São Carlos,Regular presencial,Não,Não
+ALU0370,Maria Pereira Costa,CUR01,6,28,Setor Industrial,Regular presencial,Não,Não
+ALU0371,Maria Costa Almeida,CUR01,7,23,Setor Industrial,Regular presencial,Não,Não
+ALU0372,Renato Ferreira Nunes,CUR01,8,22,Paraíso,Regular presencial,Não,Não
+ALU0373,Felipe Barbosa Silva,CUR01,6,20,Vila Jaiara,Regular presencial,Não,Não
+ALU0374,Luana Lima Santos,CUR01,3,18,Vivian Parque,Regular presencial,Sim,Não
+ALU0375,Maria Martins Martins,CUR01,6,24,Residencial das Rosas,Regular híbrido,Não,Não
+ALU0376,Eduardo Rocha Rocha,CUR01,8,18,Jibran El Hadj,Regular presencial,Não,Não
+ALU0377,Bruno Silva Oliveira,CUR01,1,33,São Carlos,Regular presencial,Sim,Não
+ALU0378,Carlos Almeida Pereira,CUR01,6,27,Anápolis City,Regular presencial,Não,Não
+ALU0379,Renato Costa Mendes,CUR01,7,27,Vivian Parque,Regular híbrido,Não,Não
+ALU0380,Pedro Teixeira Pereira,CUR01,1,29,Vila Jaiara,Regular presencial,Não,Sim
+ALU0381,Pedro Lima Almeida,CUR01,7,26,Setor Industrial,Regular presencial,Não,Não
+ALU0382,Gabriel Barbosa Rodrigues,CUR01,2,19,Anápolis City,Regular presencial,Não,Não
+ALU0383,João Martins Mendes,CUR01,5,21,Filostro Machado,Regular presencial,Não,Não
+ALU0384,Larissa Lima Rocha,CUR01,2,24,Anápolis City,Regular presencial,Não,Não
+ALU0385,Amanda Nunes Rocha,CUR01,5,28,Boa Vista,Regular híbrido,Não,Não
+ALU0386,João Mendes Oliveira,CUR01,6,23,Paraíso,Regular presencial,Não,Não
+ALU0387,Camila Nunes Lima,CUR01,3,17,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0388,Ana Costa Rodrigues,CUR01,8,22,Vivian Parque,Regular presencial,Não,Não
+ALU0389,Eduardo Barbosa Gomes,CUR01,7,21,Maracanã,Regular presencial,Não,Não
+ALU0390,Renato Lima Teixeira,CUR01,7,19,Boa Vista,Regular presencial,Sim,Não
+ALU0391,Letícia Rocha Martins,CUR01,7,28,Paraíso,EJA,Não,Não
+ALU0392,Gabriel Gomes Barbosa,CUR01,5,24,Vila Jaiara,Regular presencial,Não,Não
+ALU0393,Beatriz Costa Gomes,CUR01,4,24,Jundiaí,Regular presencial,Não,Não
+ALU0394,Gabriel Oliveira Gomes,CUR01,4,18,Maracanã,Regular híbrido,Não,Não
+ALU0395,Mariana Souza Martins,CUR01,3,27,Jundiaí,Regular presencial,Não,Não
+ALU0396,Amanda Teixeira Carvalho,CUR01,5,20,Jibran El Hadj,Regular presencial,Não,Não
+ALU0397,Carlos Nunes Martins,CUR01,3,25,Vila Jaiara,Regular presencial,Não,Não
+ALU0398,Bruno Rocha Oliveira,CUR01,6,23,Vivian Parque,Regular presencial,Não,Não
+ALU0399,Gustavo Martins Rodrigues,CUR01,8,17,Paraíso,Regular presencial,Sim,Não
+ALU0400,Beatriz Rodrigues Souza,CUR01,4,21,Anápolis City,Regular presencial,Não,Não
+ALU0401,Gustavo Ribeiro Almeida,CUR01,3,17,Setor Central,Regular presencial,Sim,Não
+ALU0402,Julia Nunes Santos,CUR01,3,22,Residencial das Rosas,Regular presencial,Não,Não
+ALU0403,Mariana Nunes Gomes,CUR01,1,17,Setor Central,Regular presencial,Não,Não
+ALU0404,Isabela Nunes Almeida,CUR01,3,23,Boa Vista,Regular presencial,Não,Não
+ALU0405,Amanda Martins Rocha,CUR01,8,30,Jibran El Hadj,Regular presencial,Não,Não
+ALU0406,Gabriel Oliveira Santos,CUR01,4,25,Vivian Parque,Regular presencial,Não,Não
+ALU0407,Larissa Teixeira Ferreira,CUR01,4,20,Residencial das Rosas,Regular presencial,Não,Não
+ALU0408,Maria Silva Martins,CUR01,6,17,Maracanã,Regular presencial,Não,Não
+ALU0409,Beatriz Costa Pereira,CUR01,4,20,Filostro Machado,EJA,Não,Não
+ALU0410,Thiago Oliveira Martins,CUR01,8,18,Boa Vista,Regular presencial,Não,Não
+ALU0411,Ana Ribeiro Silva,CUR01,4,18,Jundiaí,Regular presencial,Não,Não
+ALU0412,Luana Silva Teixeira,CUR01,6,19,Setor Industrial,Regular presencial,Não,Não
+ALU0413,Carlos Rocha Rodrigues,CUR01,2,23,São Carlos,Regular presencial,Sim,Não
+ALU0414,Camila Pereira Silva,CUR01,5,18,Jibran El Hadj,Regular presencial,Não,Não
+ALU0415,Ana Mendes Rocha,CUR01,8,20,Setor Central,Regular presencial,Não,Não
+ALU0416,Victor Nunes Barbosa,CUR01,8,23,Boa Vista,Regular presencial,Não,Não
+ALU0417,Gabriel Silva Oliveira,CUR01,5,26,Anápolis City,Regular presencial,Não,Não
+ALU0418,Beatriz Souza Santos,CUR01,6,25,Filostro Machado,Regular presencial,Não,Não
+ALU0419,Larissa Carvalho Souza,CUR01,5,17,Filostro Machado,Regular híbrido,Não,Sim
+ALU0420,Letícia Mendes Santos,CUR01,6,20,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0421,Eduardo Santos Silva,CUR01,3,26,Setor Industrial,Regular presencial,Não,Não
+ALU0422,Gabriel Rodrigues Costa,CUR01,4,26,Jundiaí,Regular presencial,Não,Não
+ALU0423,Thiago Lima Gomes,CUR01,6,23,Vila Jaiara,Regular presencial,Não,Não
+ALU0424,Beatriz Santos Mendes,CUR01,6,19,Recanto do Sol,Regular presencial,Não,Não
+ALU0425,Rafael Santos Teixeira,CUR01,8,18,São Carlos,Regular presencial,Não,Não
+ALU0426,Camila Santos Carvalho,CUR01,5,25,Jibran El Hadj,Regular presencial,Sim,Não
+ALU0427,Rafael Martins Rocha,CUR01,4,28,Maracanã,Regular presencial,Não,Não
+ALU0428,Carlos Ferreira Barbosa,CUR01,2,17,Filostro Machado,Regular presencial,Não,Não
+ALU0429,Pedro Santos Teixeira,CUR01,4,26,Vivian Parque,Regular presencial,Não,Não
+ALU0430,Luana Ferreira Mendes,CUR01,1,17,Vila Jaiara,Regular híbrido,Não,Não
+ALU0431,Larissa Araújo Lima,CUR01,2,27,Setor Industrial,Regular presencial,Não,Não
+ALU0432,Carlos Araújo Silva,CUR01,2,20,Filostro Machado,Regular presencial,Não,Não
+ALU0433,Bruno Araújo Santos,CUR01,8,25,Residencial das Rosas,EJA,Não,Não
+ALU0434,Julia Martins Martins,CUR01,7,20,Anápolis City,Regular presencial,Não,Sim
+ALU0435,Victor Rodrigues Costa,CUR01,6,23,Setor Industrial,Regular presencial,Não,Não
+ALU0436,Rafael Mendes Ribeiro,CUR01,2,22,Vivian Parque,Regular presencial,Não,Não
+ALU0437,Mariana Gomes Souza,CUR01,2,30,Recanto do Sol,Regular híbrido,Não,Não
+ALU0438,Victor Costa Mendes,CUR01,1,30,Anápolis City,Regular presencial,Não,Não
+ALU0439,Pedro Costa Martins,CUR01,8,17,Residencial das Rosas,Regular presencial,Sim,Não
+ALU0440,Mariana Souza Teixeira,CUR01,5,19,Setor Industrial,Regular presencial,Sim,Não
+ALU0441,Camila Silva Ribeiro,CUR01,6,19,Recanto do Sol,Regular presencial,Não,Não
+ALU0442,Gustavo Costa Mendes,CUR01,3,17,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0443,Thiago Gomes Silva,CUR01,1,22,Paraíso,Regular presencial,Sim,Não
+ALU0444,Renato Gomes Costa,CUR01,8,20,Setor Industrial,Regular presencial,Não,Não
+ALU0445,Bruno Mendes Ferreira,CUR01,8,33,Vivian Parque,Regular presencial,Não,Não
+ALU0446,Mariana Teixeira Rocha,CUR01,2,23,Jibran El Hadj,Regular presencial,Não,Não
+ALU0447,Beatriz Rocha Ferreira,CUR01,1,22,Anápolis City,Regular presencial,Sim,Não
+ALU0448,Pedro Carvalho Santos,CUR01,5,23,Anápolis City,Regular presencial,Não,Não
+ALU0449,Bruno Souza Almeida,CUR01,8,26,Setor Industrial,EJA,Não,Não
+ALU0450,Beatriz Nunes Santos,CUR01,5,27,São Carlos,Regular presencial,Não,Não
+ALU0451,Carlos Nunes Souza,CUR01,4,17,Filostro Machado,Regular presencial,Não,Sim
+ALU0452,Camila Barbosa Costa,CUR01,4,26,Filostro Machado,Regular presencial,Não,Não
+ALU0453,Renato Costa Pereira,CUR01,8,18,Vila Jaiara,Regular presencial,Não,Sim
+ALU0454,Victor Teixeira Martins,CUR01,6,17,Jundiaí,Regular híbrido,Não,Sim
+ALU0455,Felipe Ferreira Gomes,CUR01,8,24,Anápolis City,Regular presencial,Não,Não
+ALU0456,João Barbosa Carvalho,CUR01,6,17,Vivian Parque,Regular presencial,Não,Não
+ALU0457,Julia Teixeira Barbosa,CUR01,7,19,Jundiaí,EJA,Não,Não
+ALU0458,Gustavo Rocha Martins,CUR01,2,24,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0459,Camila Oliveira Rocha,CUR01,7,25,Filostro Machado,Regular presencial,Não,Sim
+ALU0460,Eduardo Santos Pereira,CUR01,5,20,Jardim Alexandrina,Regular híbrido,Não,Não
+ALU0461,Bruno Teixeira Almeida,CUR01,1,22,Boa Vista,Regular presencial,Não,Não
+ALU0462,João Oliveira Barbosa,CUR01,6,26,Jundiaí,Regular presencial,Não,Não
+ALU0463,Bruno Lima Silva,CUR01,6,17,São Carlos,EJA,Não,Não
+ALU0464,Beatriz Costa Silva,CUR01,3,19,Boa Vista,Regular presencial,Não,Não
+ALU0465,Eduardo Mendes Ferreira,CUR01,5,19,Anápolis City,Regular presencial,Não,Não
+ALU0466,Mariana Ferreira Lima,CUR01,6,17,Setor Industrial,Regular presencial,Sim,Sim
+ALU0467,Beatriz Barbosa Teixeira,CUR01,3,22,Anápolis City,Regular presencial,Não,Sim
+ALU0468,Felipe Nunes Silva,CUR01,2,18,Vivian Parque,Regular presencial,Não,Não
+ALU0469,Camila Carvalho Carvalho,CUR01,6,19,Jibran El Hadj,Regular presencial,Não,Não
+ALU0470,João Araújo Almeida,CUR01,2,30,Jardim Alexandrina,EJA,Não,Não
+ALU0471,Matheus Carvalho Rocha,CUR01,3,20,Setor Industrial,Regular presencial,Sim,Não
+ALU0472,Amanda Almeida Santos,CUR01,7,21,Setor Central,Regular presencial,Não,Não
+ALU0473,Maria Araújo Nunes,CUR01,6,20,Recanto do Sol,Regular presencial,Não,Não
+ALU0474,Letícia Ribeiro Rodrigues,CUR01,2,17,São Carlos,Regular híbrido,Não,Não
+ALU0475,Ana Rodrigues Barbosa,CUR01,8,22,Paraíso,Regular presencial,Não,Não
+ALU0476,Beatriz Lima Costa,CUR01,4,21,Maracanã,Regular presencial,Não,Não
+ALU0477,João Costa Almeida,CUR01,3,19,Jibran El Hadj,Regular presencial,Não,Não
+ALU0478,Isabela Oliveira Ribeiro,CUR01,4,21,Paraíso,EJA,Não,Não
+ALU0479,Felipe Silva Mendes,CUR01,4,20,Setor Central,Regular presencial,Não,Não
+ALU0480,Maria Souza Pereira,CUR01,3,17,Recanto do Sol,Regular presencial,Não,Não
+ALU0481,Larissa Silva Lima,CUR01,2,17,Vila Jaiara,Regular presencial,Não,Não
+ALU0482,Rafael Mendes Martins,CUR01,8,22,Setor Industrial,Regular presencial,Não,Não
+ALU0483,Victor Gomes Mendes,CUR01,5,22,Jibran El Hadj,Regular presencial,Não,Sim
+ALU0484,Gabriel Teixeira Teixeira,CUR01,2,20,São Carlos,Regular presencial,Não,Não
+ALU0485,Carlos Almeida Almeida,CUR01,3,23,Jibran El Hadj,Regular presencial,Não,Não
+ALU0486,Carlos Lima Gomes,CUR01,4,30,Anápolis City,Regular presencial,Não,Não
+ALU0487,João Ribeiro Santos,CUR01,8,18,Filostro Machado,Regular presencial,Não,Não
+ALU0488,Camila Souza Costa,CUR01,4,21,Setor Industrial,Regular presencial,Não,Não
+ALU0489,Carlos Costa Nunes,CUR01,6,20,Maracanã,Regular presencial,Não,Não
+ALU0490,Gabriel Araújo Barbosa,CUR01,4,22,Vila Jaiara,EJA,Sim,Não
+ALU0491,Victor Souza Rocha,CUR01,2,17,Filostro Machado,Regular híbrido,Não,Não
+ALU0492,Amanda Araújo Martins,CUR01,7,23,Jardim Alexandrina,Regular híbrido,Não,Não
+ALU0493,Thiago Ribeiro Carvalho,CUR01,3,22,Recanto do Sol,Regular presencial,Não,Não
+ALU0494,Victor Carvalho Costa,CUR01,5,17,Paraíso,Regular presencial,Não,Não
+ALU0495,Thiago Rodrigues Teixeira,CUR01,4,18,Setor Industrial,EJA,Não,Não
+ALU0496,Lucas Nunes Mendes,CUR01,4,28,Anápolis City,Regular híbrido,Não,Não
+ALU0497,Maria Mendes Mendes,CUR01,6,19,Vivian Parque,Regular presencial,Não,Não
+ALU0498,Thiago Pereira Souza,CUR01,3,23,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0499,Bruno Almeida Ferreira,CUR01,3,20,Vila Jaiara,Regular presencial,Não,Não
+ALU0500,Mariana Rocha Mendes,CUR01,7,22,Jibran El Hadj,EJA,Não,Não
+ALU0501,Isabela Ribeiro Barbosa,CUR01,7,28,Jibran El Hadj,Regular presencial,Não,Não
+ALU0502,Rafael Almeida Teixeira,CUR01,1,22,Boa Vista,Regular presencial,Não,Não
+ALU0503,Gustavo Lima Gomes,CUR01,7,24,Paraíso,Regular presencial,Não,Não
+ALU0504,Pedro Martins Almeida,CUR01,5,17,Jundiaí,Regular presencial,Não,Não
+ALU0505,Victor Gomes Silva,CUR01,6,22,Recanto do Sol,Regular presencial,Sim,Não
+ALU0506,Rafael Teixeira Lima,CUR01,6,23,Vivian Parque,EJA,Sim,Não
+ALU0507,Matheus Teixeira Costa,CUR01,3,18,Paraíso,Regular híbrido,Não,Não
+ALU0508,Bruno Oliveira Oliveira,CUR01,5,26,Anápolis City,Regular presencial,Não,Não
+ALU0509,Matheus Almeida Pereira,CUR01,8,17,Setor Industrial,Regular híbrido,Não,Não
+ALU0510,Lucas Mendes Teixeira,CUR01,6,23,Vila Jaiara,Regular presencial,Não,Não
+ALU0511,Lucas Mendes Araújo,CUR01,6,17,São Carlos,Regular presencial,Não,Não
+ALU0512,João Mendes Mendes,CUR01,2,17,Jundiaí,Regular presencial,Não,Sim
+ALU0513,Carlos Pereira Nunes,CUR01,2,21,Setor Central,Regular híbrido,Não,Não
+ALU0514,Mariana Nunes Carvalho,CUR01,2,27,Maracanã,Regular presencial,Não,Não
+ALU0515,Eduardo Lima Gomes,CUR01,2,22,Residencial das Rosas,Regular presencial,Não,Não
+ALU0516,Matheus Mendes Almeida,CUR01,6,22,Boa Vista,Regular híbrido,Não,Não
+ALU0517,Luana Carvalho Santos,CUR01,6,19,Boa Vista,Regular híbrido,Não,Não
+ALU0518,João Ferreira Carvalho,CUR01,1,17,Setor Industrial,Regular presencial,Não,Não
+ALU0519,Amanda Silva Gomes,CUR01,5,20,Recanto do Sol,Regular presencial,Não,Não
+ALU0520,Rafael Lima Oliveira,CUR01,3,30,Vila Jaiara,Regular presencial,Não,Não
+ALU0521,Felipe Costa Carvalho,CUR01,5,17,Maracanã,Regular híbrido,Não,Não
+ALU0522,Renato Mendes Barbosa,CUR01,4,29,Residencial das Rosas,Regular presencial,Não,Não
+ALU0523,Ana Araújo Lima,CUR01,5,18,Paraíso,Regular híbrido,Não,Não
+ALU0524,Carlos Almeida Araújo,CUR01,2,25,Jibran El Hadj,Regular presencial,Não,Não
+ALU0525,Maria Barbosa Rodrigues,CUR01,8,25,Setor Industrial,Regular presencial,Sim,Não
+ALU0526,Maria Mendes Souza,CUR01,5,25,Jibran El Hadj,Regular presencial,Não,Não
+ALU0527,Rafael Almeida Almeida,CUR01,2,21,Boa Vista,EJA,Não,Não
+ALU0528,Ana Rocha Costa,CUR01,3,20,Residencial das Rosas,Regular presencial,Não,Não
+ALU0529,Bruno Almeida Nunes,CUR01,2,27,Vivian Parque,Regular presencial,Não,Não
+ALU0530,Isabela Nunes Nunes,CUR01,8,23,Vila Jaiara,Regular presencial,Não,Não
+ALU0531,Mariana Silva Ribeiro,CUR01,3,26,Vivian Parque,Regular híbrido,Não,Não
+ALU0532,Carlos Barbosa Nunes,CUR01,2,17,São Carlos,Regular híbrido,Sim,Sim
+ALU0533,Luana Almeida Pereira,CUR01,7,17,Jibran El Hadj,Regular presencial,Não,Não
+ALU0534,Amanda Oliveira Mendes,CUR01,6,31,São Carlos,Regular híbrido,Não,Não
+ALU0535,Luana Ferreira Pereira,CUR01,1,25,Setor Central,EJA,Não,Não
+ALU0536,Ana Nunes Lima,CUR01,3,24,São Carlos,Regular presencial,Sim,Não
+ALU0537,Amanda Almeida Mendes,CUR01,4,29,Vivian Parque,Regular presencial,Não,Não
+ALU0538,Felipe Carvalho Carvalho,CUR01,2,19,Setor Industrial,Regular presencial,Não,Não
+ALU0539,Letícia Rodrigues Almeida,CUR01,7,21,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0540,Renato Oliveira Ribeiro,CUR01,4,27,Filostro Machado,Regular presencial,Não,Não
+ALU0541,Bruno Costa Silva,CUR01,6,17,Paraíso,Regular presencial,Sim,Não
+ALU0542,Ana Costa Nunes,CUR01,4,17,São Carlos,Regular presencial,Não,Não
+ALU0543,Rafael Ribeiro Silva,CUR01,2,17,Boa Vista,Regular presencial,Não,Não
+ALU0544,Camila Carvalho Pereira,CUR01,5,19,Maracanã,Regular presencial,Não,Não
+ALU0545,Camila Gomes Silva,CUR01,4,22,São Carlos,Regular presencial,Não,Não
+ALU0546,João Silva Lima,CUR01,2,21,Jundiaí,EJA,Não,Não
+ALU0547,Isabela Ribeiro Rocha,CUR01,6,32,Paraíso,Regular presencial,Sim,Não
+ALU0548,Luana Lima Nunes,CUR01,1,19,Jundiaí,Regular presencial,Não,Não
+ALU0549,Lucas Pereira Nunes,CUR01,1,20,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0550,João Carvalho Silva,CUR01,5,20,Residencial das Rosas,Regular presencial,Não,Não
+ALU0551,Amanda Santos Martins,CUR01,4,25,Boa Vista,Regular presencial,Não,Não
+ALU0552,Gustavo Ribeiro Araújo,CUR01,4,17,Jibran El Hadj,Regular presencial,Sim,Não
+ALU0553,Eduardo Rodrigues Rocha,CUR01,8,24,Paraíso,Regular presencial,Sim,Não
+ALU0554,Bruno Nunes Rodrigues,CUR01,3,21,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0555,Bruno Souza Araújo,CUR01,3,19,Recanto do Sol,Regular presencial,Não,Não
+ALU0556,Camila Araújo Teixeira,CUR01,6,17,Vila Jaiara,Regular presencial,Não,Não
+ALU0557,Amanda Araújo Mendes,CUR01,4,23,Filostro Machado,EJA,Sim,Não
+ALU0558,João Rodrigues Ferreira,CUR01,1,18,Jardim Alexandrina,Regular presencial,Sim,Não
+ALU0559,Felipe Santos Souza,CUR01,4,29,São Carlos,Regular presencial,Sim,Não
+ALU0560,Thiago Martins Souza,CUR01,6,25,Setor Central,Regular presencial,Não,Não
+ALU0561,Beatriz Souza Martins,CUR01,8,24,Recanto do Sol,Regular presencial,Não,Não
+ALU0562,Bruno Pereira Gomes,CUR01,4,21,Maracanã,Regular híbrido,Não,Não
+ALU0563,Isabela Oliveira Carvalho,CUR01,2,26,Maracanã,Regular presencial,Não,Não
+ALU0564,Mariana Costa Nunes,CUR01,2,20,Residencial das Rosas,Regular híbrido,Não,Não
+ALU0565,Larissa Araújo Ferreira,CUR01,7,20,Recanto do Sol,Regular presencial,Não,Não
+ALU0566,Mariana Rodrigues Santos,CUR01,6,27,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0567,Beatriz Costa Ribeiro,CUR01,1,18,Anápolis City,Regular presencial,Não,Não
+ALU0568,Gabriel Souza Nunes,CUR01,7,25,Setor Industrial,Regular presencial,Não,Não
+ALU0569,Julia Carvalho Almeida,CUR01,1,17,Jundiaí,Regular presencial,Não,Não
+ALU0570,Isabela Lima Lima,CUR01,4,26,Anápolis City,Regular presencial,Não,Não
+ALU0571,Eduardo Rodrigues Barbosa,CUR01,8,22,Vivian Parque,Regular presencial,Sim,Não
+ALU0572,Rafael Araújo Lima,CUR01,2,24,Vivian Parque,EJA,Não,Não
+ALU0573,Gustavo Gomes Silva,CUR01,3,21,Anápolis City,Regular presencial,Não,Não
+ALU0574,Thiago Pereira Gomes,CUR01,5,24,Filostro Machado,Regular presencial,Não,Não
+ALU0575,Ana Mendes Oliveira,CUR01,4,24,Residencial das Rosas,Regular presencial,Não,Não
+ALU0576,Eduardo Gomes Teixeira,CUR01,5,21,Residencial das Rosas,EJA,Não,Sim
+ALU0577,Victor Souza Araújo,CUR01,8,23,Vila Jaiara,Regular presencial,Não,Não
+ALU0578,Lucas Mendes Mendes,CUR01,2,22,Maracanã,Regular híbrido,Não,Não
+ALU0579,Renato Barbosa Ferreira,CUR01,1,17,Residencial das Rosas,Regular presencial,Não,Não
+ALU0580,Luana Carvalho Carvalho,CUR01,3,17,Recanto do Sol,Regular presencial,Não,Não
+ALU0581,Lucas Souza Mendes,CUR01,3,19,Maracanã,Regular híbrido,Não,Não
+ALU0582,Matheus Barbosa Ferreira,CUR01,2,18,Setor Central,Regular presencial,Sim,Não
+ALU0583,Luana Araújo Araújo,CUR01,1,27,Jardim Alexandrina,Regular presencial,Sim,Não
+ALU0584,Renato Almeida Pereira,CUR01,1,24,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0585,Thiago Rodrigues Santos,CUR01,7,22,Jardim Alexandrina,Regular híbrido,Não,Não
+ALU0586,Julia Araújo Rodrigues,CUR01,2,17,Recanto do Sol,Regular híbrido,Não,Não
+ALU0587,Isabela Costa Almeida,CUR01,8,26,Vivian Parque,Regular híbrido,Não,Não
+ALU0588,Renato Pereira Gomes,CUR01,4,20,Recanto do Sol,Regular presencial,Não,Não
+ALU0589,Isabela Almeida Gomes,CUR01,7,24,Setor Central,Regular presencial,Não,Não
+ALU0590,Gabriel Teixeira Almeida,CUR01,1,23,Jundiaí,Regular presencial,Não,Não
+ALU0591,Bruno Mendes Teixeira,CUR01,6,19,Paraíso,Regular presencial,Não,Não
+ALU0592,João Carvalho Rocha,CUR01,6,26,São Carlos,Regular presencial,Não,Não
+ALU0593,Larissa Ferreira Martins,CUR01,5,26,Paraíso,Regular presencial,Não,Não
+ALU0594,Felipe Lima Gomes,CUR01,4,17,Filostro Machado,Regular híbrido,Não,Não
+ALU0595,Letícia Almeida Rodrigues,CUR01,4,25,Residencial das Rosas,Regular presencial,Não,Não
+ALU0596,Carlos Rodrigues Oliveira,CUR01,1,25,Filostro Machado,EJA,Sim,Não
+ALU0597,Carlos Barbosa Silva,CUR01,7,21,Anápolis City,Regular híbrido,Não,Não
+ALU0598,Julia Oliveira Almeida,CUR01,1,24,Vivian Parque,Regular presencial,Não,Não
+ALU0599,Luana Gomes Barbosa,CUR01,7,21,Jundiaí,Regular híbrido,Não,Não
+ALU0600,Julia Souza Ribeiro,CUR01,1,22,Boa Vista,Regular presencial,Não,Não
+ALU0601,Bruno Costa Teixeira,CUR01,6,17,Anápolis City,Regular presencial,Não,Não
+ALU0602,Renato Gomes Mendes,CUR01,5,29,Vila Jaiara,Regular presencial,Não,Não
+ALU0603,Larissa Rocha Rocha,CUR01,8,17,Jundiaí,Regular presencial,Não,Não
+ALU0604,Felipe Martins Pereira,CUR01,4,33,Residencial das Rosas,Regular híbrido,Não,Não
+ALU0605,Letícia Carvalho Almeida,CUR01,3,24,Paraíso,Regular presencial,Não,Não
+ALU0606,Felipe Carvalho Mendes,CUR01,3,19,Maracanã,Regular presencial,Não,Não
+ALU0607,Larissa Silva Costa,CUR01,3,17,Maracanã,Regular presencial,Não,Sim
+ALU0608,Lucas Costa Araújo,CUR01,5,18,Maracanã,Regular presencial,Não,Sim
+ALU0609,Camila Rocha Carvalho,CUR01,3,24,Setor Central,Regular presencial,Sim,Não
+ALU0610,Letícia Teixeira Mendes,CUR01,3,25,Paraíso,Regular presencial,Não,Não
+ALU0611,João Rocha Pereira,CUR01,3,17,Setor Central,EJA,Não,Sim
+ALU0612,Luana Lima Oliveira,CUR01,3,29,Setor Industrial,Regular presencial,Não,Não
+ALU0613,Eduardo Teixeira Rodrigues,CUR01,1,18,Maracanã,Regular presencial,Não,Não
+ALU0614,Matheus Ferreira Lima,CUR01,7,28,Paraíso,Regular presencial,Não,Não
+ALU0615,Carlos Rocha Rodrigues,CUR01,3,27,Vivian Parque,Regular presencial,Não,Não
+ALU0616,Pedro Barbosa Rodrigues,CUR01,3,30,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0617,Larissa Silva Rocha,CUR01,7,18,Boa Vista,Regular presencial,Não,Não
+ALU0618,Luana Lima Barbosa,CUR01,2,27,Filostro Machado,Regular presencial,Sim,Não
+ALU0619,Camila Araújo Souza,CUR01,2,22,Anápolis City,Regular presencial,Não,Sim
+ALU0620,João Teixeira Barbosa,CUR01,4,21,Jundiaí,Regular presencial,Não,Sim
+ALU0621,Gabriel Rocha Ferreira,CUR01,4,24,Jibran El Hadj,Regular presencial,Não,Não
+ALU0622,Camila Carvalho Santos,CUR01,1,29,São Carlos,Regular presencial,Não,Não
+ALU0623,Beatriz Silva Nunes,CUR01,6,28,São Carlos,Regular híbrido,Não,Não
+ALU0624,João Souza Rodrigues,CUR01,7,24,Jundiaí,Regular presencial,Sim,Não
+ALU0625,Julia Barbosa Teixeira,CUR01,6,26,Vila Jaiara,Regular presencial,Não,Não
+ALU0626,Luana Carvalho Ribeiro,CUR01,7,22,Maracanã,Regular presencial,Não,Não
+ALU0627,Bruno Araújo Almeida,CUR01,1,28,Residencial das Rosas,Regular presencial,Não,Não
+ALU0628,Mariana Rocha Oliveira,CUR01,4,23,Paraíso,Regular presencial,Não,Não
+ALU0629,Matheus Almeida Mendes,CUR01,4,23,Maracanã,Regular presencial,Não,Não
+ALU0630,Pedro Pereira Ferreira,CUR01,1,29,Recanto do Sol,Regular presencial,Não,Não
+ALU0631,Camila Oliveira Araújo,CUR01,3,17,Jibran El Hadj,EJA,Não,Não
+ALU0632,Gustavo Martins Nunes,CUR01,8,26,Setor Industrial,Regular presencial,Não,Não
+ALU0633,Felipe Mendes Carvalho,CUR01,3,22,Boa Vista,Regular presencial,Não,Sim
+ALU0634,Carlos Costa Rocha,CUR01,3,22,Boa Vista,Regular presencial,Não,Não
+ALU0635,Ana Gomes Oliveira,CUR01,4,21,Jibran El Hadj,Regular presencial,Não,Não
+ALU0636,Pedro Araújo Araújo,CUR01,3,23,Maracanã,Regular presencial,Não,Não
+ALU0637,Gabriel Lima Costa,CUR01,6,24,Maracanã,Regular presencial,Não,Não
+ALU0638,Gustavo Gomes Martins,CUR01,4,29,Anápolis City,Regular presencial,Não,Não
+ALU0639,Isabela Mendes Carvalho,CUR01,3,26,Filostro Machado,Regular presencial,Não,Sim
+ALU0640,Victor Ribeiro Martins,CUR01,1,24,Vila Jaiara,Regular presencial,Não,Não
+ALU0641,Rafael Rodrigues Pereira,CUR01,8,24,Vivian Parque,Regular presencial,Não,Não
+ALU0642,João Lima Rodrigues,CUR01,4,27,Recanto do Sol,Regular presencial,Não,Não
+ALU0643,Eduardo Souza Pereira,CUR01,4,20,Boa Vista,Regular presencial,Não,Não
+ALU0644,Carlos Ferreira Lima,CUR01,5,26,Jundiaí,Regular presencial,Não,Não
+ALU0645,Rafael Santos Lima,CUR01,6,29,Paraíso,Regular presencial,Não,Não
+ALU0646,Lucas Ribeiro Araújo,CUR01,5,17,Paraíso,Regular presencial,Não,Sim
+ALU0647,Renato Martins Martins,CUR01,5,25,Recanto do Sol,Regular presencial,Não,Não
+ALU0648,Victor Ribeiro Ferreira,CUR01,7,17,Setor Central,Regular presencial,Não,Não
+ALU0649,Luana Barbosa Ferreira,CUR01,3,28,Jibran El Hadj,Regular presencial,Não,Sim
+ALU0650,Amanda Lima Oliveira,CUR01,8,17,Residencial das Rosas,Regular presencial,Não,Não
+ALU0651,Matheus Teixeira Ferreira,CUR01,2,22,São Carlos,EJA,Não,Não
+ALU0652,Pedro Almeida Costa,CUR01,5,18,Residencial das Rosas,Regular presencial,Não,Não
+ALU0653,Letícia Martins Pereira,CUR01,6,25,Residencial das Rosas,Regular presencial,Não,Não
+ALU0654,Gabriel Barbosa Nunes,CUR01,4,24,São Carlos,Regular presencial,Sim,Não
+ALU0655,Felipe Ferreira Lima,CUR01,8,25,Maracanã,EJA,Não,Não
+ALU0656,Amanda Nunes Teixeira,CUR01,4,24,Filostro Machado,EJA,Sim,Não
+ALU0657,Thiago Lima Souza,CUR01,8,26,Paraíso,Regular híbrido,Não,Não
+ALU0658,Isabela Lima Souza,CUR01,8,24,Vivian Parque,Regular presencial,Sim,Não
+ALU0659,Lucas Araújo Souza,CUR01,6,20,Vila Jaiara,EJA,Não,Não
+ALU0660,Eduardo Ribeiro Araújo,CUR01,4,25,Maracanã,Regular presencial,Não,Não
+ALU0661,Beatriz Rocha Rocha,CUR01,4,17,Setor Central,EJA,Não,Não
+ALU0662,Maria Rodrigues Rocha,CUR01,1,17,Maracanã,Regular presencial,Não,Não
+ALU0663,Eduardo Ribeiro Rocha,CUR01,8,30,Setor Industrial,Regular híbrido,Não,Não
+ALU0664,Julia Gomes Costa,CUR01,1,24,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0665,Gabriel Souza Rodrigues,CUR01,6,17,Filostro Machado,Regular presencial,Sim,Não
+ALU0666,Rafael Rodrigues Ribeiro,CUR01,8,23,São Carlos,Regular presencial,Não,Não
+ALU0667,Bruno Almeida Mendes,CUR01,6,31,Anápolis City,Regular presencial,Não,Não
+ALU0668,Maria Ribeiro Almeida,CUR01,3,20,Anápolis City,Regular presencial,Sim,Sim
+ALU0669,Victor Oliveira Teixeira,CUR01,3,28,Setor Central,Regular presencial,Não,Não
+ALU0670,Eduardo Almeida Araújo,CUR01,2,30,Paraíso,Regular presencial,Não,Não
+ALU0671,Eduardo Souza Martins,CUR01,8,17,Vivian Parque,Regular presencial,Não,Não
+ALU0672,Maria Araújo Santos,CUR01,8,21,Jibran El Hadj,Regular híbrido,Não,Não
+ALU0673,Larissa Almeida Teixeira,CUR01,4,22,São Carlos,Regular presencial,Não,Não
+ALU0674,Bruno Carvalho Oliveira,CUR01,3,27,Filostro Machado,Regular presencial,Não,Não
+ALU0675,Carlos Barbosa Rodrigues,CUR01,3,20,Setor Industrial,Regular presencial,Não,Não
+ALU0676,Isabela Souza Almeida,CUR01,1,31,São Carlos,Regular presencial,Não,Não
+ALU0677,Beatriz Ribeiro Teixeira,CUR01,1,27,Boa Vista,Regular presencial,Não,Não
+ALU0678,Thiago Silva Araújo,CUR01,2,21,Filostro Machado,Regular presencial,Não,Não
+ALU0679,Matheus Costa Almeida,CUR01,1,22,Paraíso,Regular presencial,Sim,Não
+ALU0680,Carlos Nunes Santos,CUR01,3,27,Setor Industrial,Regular híbrido,Não,Não
+ALU0681,Matheus Mendes Silva,CUR01,6,27,Jibran El Hadj,Regular presencial,Não,Não
+ALU0682,Matheus Teixeira Pereira,CUR01,4,21,Jardim Alexandrina,EJA,Sim,Não
+ALU0683,Larissa Martins Ferreira,CUR01,6,26,Jundiaí,Regular presencial,Não,Não
+ALU0684,Camila Pereira Barbosa,CUR01,7,23,Residencial das Rosas,Regular presencial,Não,Não
+ALU0685,Eduardo Almeida Costa,CUR01,2,17,Vivian Parque,Regular híbrido,Não,Não
+ALU0686,Julia Rocha Silva,CUR01,3,23,Paraíso,Regular presencial,Não,Sim
+ALU0687,Victor Nunes Nunes,CUR01,2,19,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0688,Camila Oliveira Ribeiro,CUR01,3,29,Vivian Parque,EJA,Não,Não
+ALU0689,Rafael Nunes Oliveira,CUR01,6,25,Vila Jaiara,EJA,Não,Não
+ALU0690,Isabela Gomes Pereira,CUR01,3,20,Anápolis City,EJA,Não,Não
+ALU0691,Luana Oliveira Mendes,CUR01,5,24,Vila Jaiara,Regular presencial,Não,Não
+ALU0692,Pedro Nunes Rocha,CUR01,2,31,Filostro Machado,EJA,Não,Não
+ALU0693,Carlos Santos Santos,CUR01,2,29,Boa Vista,Regular presencial,Sim,Sim
+ALU0694,Felipe Rodrigues Souza,CUR01,3,22,Jibran El Hadj,Regular híbrido,Não,Não
+ALU0695,Amanda Araújo Ribeiro,CUR01,2,24,Vila Jaiara,Regular híbrido,Não,Não
+ALU0696,Luana Rodrigues Pereira,CUR01,7,17,Setor Central,EJA,Não,Sim
+ALU0697,Isabela Gomes Araújo,CUR01,2,25,Boa Vista,Regular presencial,Não,Não
+ALU0698,Gustavo Barbosa Barbosa,CUR01,6,20,Anápolis City,Regular presencial,Não,Não
+ALU0699,Pedro Teixeira Lima,CUR01,8,23,Anápolis City,Regular híbrido,Não,Não
+ALU0700,Carlos Mendes Araújo,CUR01,5,25,Vila Jaiara,Regular presencial,Não,Não
+ALU0701,Lucas Teixeira Carvalho,CUR01,7,18,Setor Central,Regular presencial,Não,Não
+ALU0702,Lucas Gomes Ribeiro,CUR01,8,25,Paraíso,Regular presencial,Não,Não
+ALU0703,Gustavo Pereira Carvalho,CUR01,6,21,Filostro Machado,Regular presencial,Não,Não
+ALU0704,Luana Souza Oliveira,CUR01,4,24,Jundiaí,Regular presencial,Não,Não
+ALU0705,Beatriz Nunes Costa,CUR01,2,31,Setor Industrial,Regular presencial,Sim,Não
+ALU0706,Bruno Gomes Almeida,CUR01,7,24,Maracanã,Regular híbrido,Sim,Não
+ALU0707,Ana Rodrigues Gomes,CUR01,7,23,Residencial das Rosas,Regular presencial,Não,Sim
+ALU0708,Luana Rodrigues Almeida,CUR01,8,23,Boa Vista,Regular presencial,Não,Sim
+ALU0709,Larissa Rodrigues Souza,CUR01,3,23,Vila Jaiara,Regular presencial,Não,Não
+ALU0710,Pedro Pereira Silva,CUR01,7,30,Vila Jaiara,Regular híbrido,Não,Não
+ALU0711,Eduardo Gomes Barbosa,CUR01,5,24,Vivian Parque,Regular presencial,Não,Não
+ALU0712,Bruno Barbosa Mendes,CUR01,8,22,Setor Industrial,Regular presencial,Não,Não
+ALU0713,Luana Mendes Nunes,CUR01,3,26,Filostro Machado,Regular presencial,Não,Não
+ALU0714,Bruno Pereira Barbosa,CUR01,8,19,Anápolis City,Regular presencial,Não,Sim
+ALU0715,Beatriz Ferreira Ferreira,CUR01,3,19,Vivian Parque,Regular presencial,Não,Não
+ALU0716,Pedro Barbosa Oliveira,CUR01,1,21,Filostro Machado,Regular presencial,Sim,Não
+ALU0717,Isabela Carvalho Oliveira,CUR01,1,23,São Carlos,Regular híbrido,Não,Não
+ALU0718,Felipe Souza Lima,CUR01,7,19,Maracanã,Regular presencial,Não,Não
+ALU0719,Larissa Barbosa Oliveira,CUR01,8,25,Recanto do Sol,Regular presencial,Não,Sim
+ALU0720,Rafael Mendes Oliveira,CUR01,7,29,Paraíso,Regular presencial,Sim,Não
+ALU0721,Beatriz Santos Ribeiro,CUR01,2,24,Vivian Parque,Regular híbrido,Não,Não
+ALU0722,Luana Ferreira Teixeira,CUR01,8,22,Boa Vista,Regular presencial,Não,Não
+ALU0723,Victor Santos Nunes,CUR01,2,17,Maracanã,Regular presencial,Não,Não
+ALU0724,Larissa Nunes Rocha,CUR01,4,29,Recanto do Sol,Regular presencial,Não,Não
+ALU0725,Beatriz Teixeira Martins,CUR01,2,24,São Carlos,Regular presencial,Não,Não
+ALU0726,Lucas Rocha Lima,CUR01,7,23,Residencial das Rosas,Regular presencial,Não,Não
+ALU0727,Ana Teixeira Barbosa,CUR01,4,21,Maracanã,Regular híbrido,Sim,Não
+ALU0728,Gustavo Gomes Ferreira,CUR01,4,17,Maracanã,Regular presencial,Não,Não
+ALU0729,Isabela Martins Oliveira,CUR01,6,20,Setor Central,Regular presencial,Não,Não
+ALU0730,Letícia Gomes Souza,CUR01,7,18,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0731,Letícia Lima Souza,CUR01,8,23,Setor Central,Regular presencial,Não,Não
+ALU0732,Renato Carvalho Ferreira,CUR01,3,27,Filostro Machado,Regular presencial,Sim,Não
+ALU0733,Ana Teixeira Santos,CUR01,6,23,Filostro Machado,Regular presencial,Não,Não
+ALU0734,Amanda Martins Costa,CUR01,2,21,Setor Industrial,Regular presencial,Não,Não
+ALU0735,Julia Souza Souza,CUR01,4,23,Setor Industrial,EJA,Não,Não
+ALU0736,Felipe Carvalho Mendes,CUR01,1,19,Setor Central,Regular híbrido,Não,Não
+ALU0737,Isabela Oliveira Mendes,CUR01,7,20,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0738,Felipe Barbosa Carvalho,CUR01,8,26,Setor Central,Regular presencial,Não,Sim
+ALU0739,Mariana Rodrigues Mendes,CUR01,1,25,Filostro Machado,Regular presencial,Não,Não
+ALU0740,Letícia Costa Costa,CUR01,8,17,Paraíso,Regular híbrido,Não,Sim
+ALU0741,Maria Mendes Nunes,CUR01,4,18,Boa Vista,Regular presencial,Não,Não
+ALU0742,Isabela Souza Araújo,CUR01,1,22,Recanto do Sol,Regular presencial,Não,Não
+ALU0743,Gustavo Barbosa Santos,CUR01,5,21,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0744,Pedro Carvalho Rocha,CUR01,3,28,Jibran El Hadj,EJA,Não,Não
+ALU0745,Thiago Almeida Rodrigues,CUR01,3,23,Residencial das Rosas,Regular presencial,Não,Não
+ALU0746,Maria Silva Almeida,CUR01,1,27,Vila Jaiara,Regular presencial,Não,Não
+ALU0747,Pedro Oliveira Santos,CUR01,7,34,Paraíso,Regular presencial,Sim,Não
+ALU0748,Amanda Lima Martins,CUR01,6,25,Vila Jaiara,EJA,Não,Não
+ALU0749,Gabriel Oliveira Rodrigues,CUR01,4,20,Anápolis City,Regular presencial,Sim,Não
+ALU0750,Letícia Almeida Rocha,CUR01,6,26,Maracanã,Regular híbrido,Não,Não
+ALU0751,Rafael Ribeiro Oliveira,CUR01,6,23,Vila Jaiara,Regular presencial,Não,Não
+ALU0752,Renato Barbosa Ribeiro,CUR01,4,18,Jardim Alexandrina,Regular presencial,Não,Sim
+ALU0753,Thiago Gomes Oliveira,CUR01,2,22,Jardim Alexandrina,Regular híbrido,Não,Não
+ALU0754,Matheus Martins Almeida,CUR01,4,20,São Carlos,Regular presencial,Não,Não
+ALU0755,Thiago Lima Almeida,CUR01,6,28,Jundiaí,Regular presencial,Sim,Não
+ALU0756,Eduardo Gomes Oliveira,CUR01,8,20,Setor Industrial,Regular híbrido,Não,Não
+ALU0757,Bruno Souza Lima,CUR01,2,21,Boa Vista,Regular presencial,Sim,Não
+ALU0758,Thiago Rocha Rodrigues,CUR01,7,29,Residencial das Rosas,Regular presencial,Não,Não
+ALU0759,Felipe Oliveira Oliveira,CUR01,1,26,Anápolis City,Regular presencial,Não,Não
+ALU0760,Pedro Martins Silva,CUR01,5,23,São Carlos,Regular híbrido,Não,Não
+ALU0761,Julia Almeida Ribeiro,CUR01,7,25,Vivian Parque,Regular presencial,Não,Sim
+ALU0762,Maria Ribeiro Martins,CUR01,5,19,Setor Central,Regular presencial,Sim,Não
+ALU0763,Beatriz Gomes Pereira,CUR01,3,19,Boa Vista,EJA,Não,Não
+ALU0764,Letícia Ferreira Martins,CUR01,4,19,Recanto do Sol,Regular presencial,Não,Sim
+ALU0765,Gustavo Gomes Barbosa,CUR01,7,20,Setor Central,Regular presencial,Não,Sim
+ALU0766,Mariana Ribeiro Barbosa,CUR01,1,17,Setor Central,Regular presencial,Não,Não
+ALU0767,Felipe Almeida Martins,CUR01,1,21,Setor Industrial,Regular presencial,Não,Não
+ALU0768,Beatriz Souza Ribeiro,CUR01,6,21,Paraíso,Regular presencial,Não,Não
+ALU0769,Matheus Pereira Almeida,CUR01,1,32,Residencial das Rosas,EJA,Não,Não
+ALU0770,Matheus Souza Ribeiro,CUR01,6,21,Filostro Machado,Regular presencial,Sim,Não
+ALU0771,Letícia Pereira Ribeiro,CUR01,6,22,Setor Industrial,Regular híbrido,Não,Não
+ALU0772,Maria Rocha Pereira,CUR01,8,20,Setor Industrial,Regular presencial,Não,Não
+ALU0773,Victor Martins Rocha,CUR01,1,19,Jundiaí,Regular presencial,Não,Não
+ALU0774,Maria Martins Santos,CUR01,4,25,Jibran El Hadj,Regular presencial,Não,Não
+ALU0775,Gabriel Lima Teixeira,CUR01,8,24,Setor Central,Regular presencial,Não,Não
+ALU0776,João Carvalho Araújo,CUR01,4,28,Jundiaí,Regular presencial,Não,Não
+ALU0777,Matheus Rodrigues Carvalho,CUR01,3,20,Paraíso,Regular híbrido,Não,Não
+ALU0778,Julia Araújo Rodrigues,CUR01,7,30,Recanto do Sol,Regular presencial,Não,Não
+ALU0779,Gustavo Lima Santos,CUR01,8,20,Jibran El Hadj,Regular híbrido,Não,Não
+ALU0780,Beatriz Nunes Rocha,CUR01,5,27,Anápolis City,Regular presencial,Não,Sim
+ALU0781,Eduardo Barbosa Ferreira,CUR01,5,24,Boa Vista,Regular híbrido,Não,Não
+ALU0782,Carlos Santos Araújo,CUR01,1,28,São Carlos,Regular híbrido,Não,Não
+ALU0783,Gabriel Teixeira Almeida,CUR01,5,17,São Carlos,Regular presencial,Não,Sim
+ALU0784,Ana Rodrigues Ferreira,CUR01,4,21,São Carlos,Regular presencial,Sim,Não
+ALU0785,Gabriel Teixeira Ferreira,CUR01,3,17,Paraíso,Regular presencial,Não,Não
+ALU0786,Carlos Almeida Gomes,CUR01,6,21,Anápolis City,Regular presencial,Não,Não
+ALU0787,Carlos Mendes Rodrigues,CUR01,5,22,São Carlos,Regular presencial,Não,Não
+ALU0788,Gabriel Barbosa Oliveira,CUR01,1,23,Vivian Parque,Regular presencial,Sim,Não
+ALU0789,Julia Barbosa Santos,CUR01,7,28,Boa Vista,EJA,Sim,Não
+ALU0790,Pedro Teixeira Carvalho,CUR01,1,17,Residencial das Rosas,Regular presencial,Não,Não
+ALU0791,Eduardo Martins Rocha,CUR01,1,17,Setor Central,Regular presencial,Não,Não
+ALU0792,Felipe Almeida Ribeiro,CUR01,6,17,Jundiaí,Regular presencial,Não,Não
+ALU0793,Gabriel Silva Rocha,CUR01,8,27,São Carlos,Regular presencial,Não,Não
+ALU0794,Felipe Souza Teixeira,CUR01,7,22,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0795,Ana Ferreira Almeida,CUR01,5,17,São Carlos,Regular presencial,Não,Não
+ALU0796,Lucas Almeida Carvalho,CUR01,7,25,Maracanã,Regular híbrido,Não,Sim
+ALU0797,Julia Barbosa Rodrigues,CUR01,7,22,Setor Central,Regular presencial,Não,Não
+ALU0798,Thiago Pereira Barbosa,CUR01,6,33,Maracanã,Regular presencial,Não,Não
+ALU0799,Isabela Lima Rodrigues,CUR01,8,17,Maracanã,Regular híbrido,Não,Não
+ALU0800,Rafael Mendes Costa,CUR01,6,20,Jundiaí,Regular presencial,Não,Não
+ALU0801,Victor Silva Carvalho,CUR01,4,24,Jundiaí,Regular presencial,Sim,Não
+ALU0802,Julia Rocha Nunes,CUR01,8,23,Jundiaí,Regular presencial,Não,Não
+ALU0803,Larissa Carvalho Barbosa,CUR01,8,19,Jundiaí,Regular híbrido,Sim,Não
+ALU0804,Amanda Rodrigues Almeida,CUR01,5,28,Vivian Parque,EJA,Não,Não
+ALU0805,Matheus Lima Rocha,CUR01,8,24,Filostro Machado,Regular presencial,Não,Não
+ALU0806,Bruno Nunes Ribeiro,CUR01,3,20,Maracanã,EJA,Sim,Não
+ALU0807,Lucas Barbosa Ferreira,CUR01,6,28,Anápolis City,Regular híbrido,Não,Não
+ALU0808,Felipe Pereira Lima,CUR01,3,20,Boa Vista,Regular presencial,Não,Não
+ALU0809,Eduardo Carvalho Ferreira,CUR01,3,17,Paraíso,Regular presencial,Não,Não
+ALU0810,Lucas Nunes Ferreira,CUR01,8,27,São Carlos,Regular presencial,Não,Não
+ALU0811,Rafael Costa Pereira,CUR01,4,21,Residencial das Rosas,Regular presencial,Não,Não
+ALU0812,Thiago Gomes Costa,CUR01,4,22,Setor Central,Regular presencial,Não,Não
+ALU0813,Lucas Rodrigues Carvalho,CUR01,5,25,Paraíso,Regular híbrido,Sim,Não
+ALU0814,Ana Costa Nunes,CUR01,2,24,Filostro Machado,Regular presencial,Sim,Não
+ALU0815,Gabriel Mendes Nunes,CUR01,2,24,Vivian Parque,Regular presencial,Não,Não
+ALU0816,Eduardo Santos Silva,CUR01,3,17,Jundiaí,EJA,Não,Não
+ALU0817,Camila Nunes Nunes,CUR01,7,23,Jibran El Hadj,Regular presencial,Sim,Não
+ALU0818,Julia Santos Oliveira,CUR01,7,20,Filostro Machado,Regular presencial,Não,Sim
+ALU0819,Carlos Gomes Costa,CUR01,2,27,Vivian Parque,Regular presencial,Não,Não
+ALU0820,Eduardo Santos Souza,CUR01,2,20,Residencial das Rosas,Regular presencial,Sim,Não
+ALU0821,Renato Almeida Pereira,CUR01,8,20,Filostro Machado,Regular presencial,Não,Não
+ALU0822,Ana Carvalho Nunes,CUR01,4,17,Jundiaí,EJA,Sim,Não
+ALU0823,Bruno Santos Gomes,CUR01,4,17,Vivian Parque,Regular presencial,Não,Não
+ALU0824,Mariana Silva Almeida,CUR01,3,22,Setor Central,Regular híbrido,Sim,Não
+ALU0825,Renato Nunes Nunes,CUR01,5,35,Vila Jaiara,Regular presencial,Não,Não
+ALU0826,Renato Araújo Santos,CUR01,6,22,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0827,Matheus Carvalho Santos,CUR01,2,20,São Carlos,Regular presencial,Não,Não
+ALU0828,Amanda Ribeiro Souza,CUR01,8,20,Paraíso,Regular presencial,Não,Não
+ALU0829,Carlos Martins Oliveira,CUR01,4,17,Vivian Parque,Regular híbrido,Não,Não
+ALU0830,Larissa Lima Santos,CUR01,2,26,Vivian Parque,Regular híbrido,Não,Não
+ALU0831,Matheus Souza Silva,CUR01,5,22,Setor Central,Regular presencial,Não,Não
+ALU0832,Beatriz Almeida Almeida,CUR01,7,17,Boa Vista,Regular presencial,Não,Não
+ALU0833,Julia Costa Nunes,CUR01,6,17,Anápolis City,Regular presencial,Não,Não
+ALU0834,Carlos Rodrigues Silva,CUR01,1,29,Boa Vista,Regular presencial,Sim,Não
+ALU0835,Victor Lima Nunes,CUR01,3,27,Jundiaí,Regular presencial,Não,Não
+ALU0836,Ana Carvalho Costa,CUR01,6,17,Paraíso,Regular presencial,Sim,Não
+ALU0837,João Almeida Mendes,CUR01,4,27,Paraíso,Regular presencial,Não,Não
+ALU0838,Amanda Araújo Martins,CUR01,5,22,Paraíso,Regular presencial,Não,Não
+ALU0839,Thiago Barbosa Santos,CUR01,2,28,Paraíso,Regular híbrido,Não,Não
+ALU0840,Ana Souza Ferreira,CUR01,6,27,Anápolis City,Regular presencial,Sim,Não
+ALU0841,Isabela Oliveira Santos,CUR01,6,20,São Carlos,Regular presencial,Sim,Não
+ALU0842,Matheus Pereira Rodrigues,CUR01,5,27,Jundiaí,Regular presencial,Não,Não
+ALU0843,Rafael Ribeiro Teixeira,CUR01,7,24,Paraíso,Regular híbrido,Não,Não
+ALU0844,Eduardo Lima Oliveira,CUR01,2,22,Setor Industrial,Regular presencial,Não,Não
+ALU0845,Eduardo Rocha Rocha,CUR01,5,22,Jibran El Hadj,Regular híbrido,Não,Não
+ALU0846,Matheus Rodrigues Silva,CUR01,2,28,Residencial das Rosas,Regular presencial,Não,Não
+ALU0847,Isabela Silva Souza,CUR01,8,26,Filostro Machado,Regular presencial,Não,Não
+ALU0848,Julia Silva Souza,CUR01,1,23,Setor Industrial,Regular presencial,Não,Não
+ALU0849,Isabela Ferreira Araújo,CUR01,5,19,Residencial das Rosas,EJA,Sim,Não
+ALU0850,Matheus Gomes Martins,CUR01,1,26,Maracanã,Regular presencial,Não,Sim
+ALU0851,Bruno Silva Almeida,CUR01,3,23,Residencial das Rosas,EJA,Sim,Não
+ALU0852,Letícia Gomes Souza,CUR01,7,17,Vivian Parque,Regular presencial,Não,Não
+ALU0853,Pedro Santos Rocha,CUR01,4,18,Jundiaí,Regular presencial,Não,Não
+ALU0854,João Rodrigues Almeida,CUR01,8,22,Filostro Machado,Regular presencial,Não,Não
+ALU0855,Victor Gomes Oliveira,CUR01,4,26,Anápolis City,Regular presencial,Sim,Não
+ALU0856,Rafael Oliveira Oliveira,CUR01,6,21,Jibran El Hadj,Regular presencial,Sim,Sim
+ALU0857,Larissa Santos Carvalho,CUR01,4,23,Boa Vista,Regular presencial,Não,Não
+ALU0858,Luana Silva Ferreira,CUR01,2,28,São Carlos,Regular presencial,Não,Não
+ALU0859,Isabela Ferreira Silva,CUR01,2,22,Recanto do Sol,Regular presencial,Não,Não
+ALU0860,Gabriel Mendes Lima,CUR01,2,19,Maracanã,Regular presencial,Não,Não
+ALU0861,Renato Almeida Nunes,CUR01,2,24,Recanto do Sol,Regular presencial,Sim,Não
+ALU0862,Lucas Carvalho Costa,CUR01,5,20,Vila Jaiara,Regular presencial,Sim,Não
+ALU0863,Carlos Nunes Santos,CUR01,6,18,Paraíso,Regular presencial,Sim,Não
+ALU0864,Amanda Mendes Santos,CUR01,1,30,São Carlos,Regular presencial,Não,Não
+ALU0865,Letícia Rodrigues Barbosa,CUR01,4,25,Paraíso,EJA,Não,Não
+ALU0866,Camila Souza Barbosa,CUR01,3,17,Filostro Machado,Regular presencial,Não,Não
+ALU0867,Gustavo Martins Costa,CUR01,8,18,Residencial das Rosas,Regular presencial,Não,Não
+ALU0868,Thiago Gomes Rodrigues,CUR01,3,26,Setor Industrial,Regular presencial,Sim,Não
+ALU0869,Luana Santos Santos,CUR01,8,26,Setor Central,Regular presencial,Não,Não
+ALU0870,Rafael Lima Gomes,CUR01,8,20,São Carlos,Regular híbrido,Não,Não
+ALU0871,Thiago Martins Rocha,CUR01,7,17,Setor Industrial,Regular presencial,Não,Não
+ALU0872,Larissa Lima Pereira,CUR01,2,24,Anápolis City,Regular híbrido,Sim,Não
+ALU0873,Thiago Almeida Santos,CUR01,3,17,Setor Industrial,Regular presencial,Não,Não
+ALU0874,Maria Costa Rocha,CUR01,2,20,Paraíso,Regular presencial,Não,Não
+ALU0875,Thiago Ribeiro Oliveira,CUR01,7,19,Setor Industrial,Regular presencial,Não,Sim
+ALU0876,Isabela Barbosa Rocha,CUR01,8,18,Jundiaí,Regular presencial,Não,Sim
+ALU0877,Maria Ferreira Costa,CUR01,1,32,Vila Jaiara,Regular presencial,Não,Não
+ALU0878,Gabriel Barbosa Santos,CUR01,8,22,Residencial das Rosas,Regular presencial,Não,Não
+ALU0879,Renato Gomes Araújo,CUR01,3,17,Boa Vista,EJA,Não,Não
+ALU0880,Gustavo Rodrigues Rodrigues,CUR01,1,29,Recanto do Sol,Regular presencial,Não,Não
+ALU0881,Felipe Nunes Ferreira,CUR01,1,23,Setor Industrial,Regular presencial,Sim,Sim
+ALU0882,Beatriz Costa Nunes,CUR01,4,17,Jundiaí,Regular presencial,Não,Não
+ALU0883,Thiago Souza Carvalho,CUR01,7,17,Filostro Machado,Regular híbrido,Não,Não
+ALU0884,Bruno Araújo Ferreira,CUR01,6,27,Vivian Parque,Regular híbrido,Sim,Sim
+ALU0885,Gustavo Gomes Araújo,CUR01,2,27,Boa Vista,Regular presencial,Não,Não
+ALU0886,Pedro Martins Mendes,CUR01,7,18,São Carlos,Regular presencial,Não,Não
+ALU0887,Letícia Costa Carvalho,CUR01,6,22,Recanto do Sol,Regular presencial,Não,Não
+ALU0888,Gustavo Teixeira Rocha,CUR01,5,25,Anápolis City,Regular presencial,Não,Não
+ALU0889,Pedro Rocha Barbosa,CUR01,5,17,Vila Jaiara,Regular presencial,Sim,Não
+ALU0890,João Ribeiro Rodrigues,CUR01,1,18,Setor Industrial,Regular presencial,Não,Não
+ALU0891,Luana Nunes Rocha,CUR01,3,24,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0892,Ana Souza Teixeira,CUR01,4,26,Anápolis City,Regular presencial,Não,Não
+ALU0893,Isabela Rocha Barbosa,CUR01,8,21,Anápolis City,Regular presencial,Sim,Não
+ALU0894,Amanda Ribeiro Gomes,CUR01,3,28,Setor Central,Regular presencial,Não,Não
+ALU0895,Letícia Gomes Almeida,CUR01,5,19,Setor Central,Regular presencial,Não,Sim
+ALU0896,Eduardo Silva Almeida,CUR01,6,21,Residencial das Rosas,Regular presencial,Não,Não
+ALU0897,Mariana Martins Rocha,CUR01,5,24,Jardim Alexandrina,EJA,Não,Não
+ALU0898,Mariana Rodrigues Pereira,CUR01,1,30,Jibran El Hadj,Regular presencial,Não,Não
+ALU0899,Mariana Pereira Almeida,CUR01,7,17,Boa Vista,Regular presencial,Não,Não
+ALU0900,Eduardo Silva Mendes,CUR01,3,26,Setor Industrial,Regular híbrido,Não,Não
+ALU0901,Julia Rodrigues Teixeira,CUR01,2,36,Jundiaí,Regular presencial,Não,Não
+ALU0902,Ana Costa Mendes,CUR01,4,19,Vila Jaiara,Regular presencial,Não,Não
+ALU0903,Renato Silva Teixeira,CUR01,3,17,São Carlos,Regular presencial,Não,Não
+ALU0904,Gabriel Oliveira Pereira,CUR01,5,21,Jibran El Hadj,Regular presencial,Não,Sim
+ALU0905,Maria Rodrigues Costa,CUR01,2,21,São Carlos,Regular presencial,Não,Não
+ALU0906,Beatriz Santos Barbosa,CUR01,1,17,Jardim Alexandrina,Regular presencial,Sim,Não
+ALU0907,Pedro Santos Costa,CUR01,2,17,Filostro Machado,Regular híbrido,Não,Não
+ALU0908,Carlos Teixeira Silva,CUR01,7,29,São Carlos,Regular presencial,Não,Não
+ALU0909,Eduardo Rocha Lima,CUR01,4,19,Anápolis City,Regular presencial,Não,Não
+ALU0910,Luana Teixeira Rocha,CUR01,3,20,Filostro Machado,Regular presencial,Não,Não
+ALU0911,Camila Ferreira Araújo,CUR01,5,24,Residencial das Rosas,Regular presencial,Não,Não
+ALU0912,Rafael Carvalho Mendes,CUR01,6,22,Paraíso,Regular presencial,Não,Não
+ALU0913,Gabriel Araújo Teixeira,CUR01,2,20,Maracanã,Regular presencial,Não,Não
+ALU0914,Rafael Carvalho Rocha,CUR01,6,19,Filostro Machado,EJA,Não,Não
+ALU0915,Amanda Rocha Oliveira,CUR01,7,19,Vivian Parque,Regular presencial,Não,Não
+ALU0916,Larissa Teixeira Carvalho,CUR01,4,23,Residencial das Rosas,Regular presencial,Não,Não
+ALU0917,Victor Ribeiro Pereira,CUR01,2,28,Jundiaí,Regular presencial,Sim,Não
+ALU0918,Eduardo Martins Gomes,CUR01,8,22,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0919,Carlos Lima Nunes,CUR01,1,17,Paraíso,Regular presencial,Não,Não
+ALU0920,Felipe Martins Teixeira,CUR01,8,23,Residencial das Rosas,Regular presencial,Não,Não
+ALU0921,Beatriz Ferreira Ferreira,CUR01,7,24,São Carlos,Regular presencial,Não,Não
+ALU0922,João Pereira Mendes,CUR01,5,22,Boa Vista,Regular presencial,Não,Não
+ALU0923,Camila Santos Araújo,CUR01,5,23,Residencial das Rosas,Regular presencial,Não,Não
+ALU0924,Mariana Gomes Silva,CUR01,6,25,Setor Industrial,Regular presencial,Não,Não
+ALU0925,Felipe Martins Souza,CUR01,2,24,São Carlos,Regular presencial,Não,Não
+ALU0926,Isabela Santos Ferreira,CUR01,7,24,Paraíso,Regular presencial,Não,Não
+ALU0927,Thiago Mendes Mendes,CUR01,6,21,Setor Central,Regular híbrido,Sim,Não
+ALU0928,Gustavo Silva Carvalho,CUR01,8,25,Recanto do Sol,EJA,Não,Não
+ALU0929,Lucas Martins Ribeiro,CUR01,8,17,Maracanã,Regular presencial,Não,Não
+ALU0930,Maria Teixeira Rocha,CUR01,1,22,Recanto do Sol,Regular presencial,Não,Não
+ALU0931,Thiago Nunes Pereira,CUR01,5,30,Vivian Parque,Regular presencial,Não,Não
+ALU0932,Thiago Martins Rodrigues,CUR01,3,30,Anápolis City,Regular presencial,Não,Não
+ALU0933,Luana Santos Araújo,CUR01,7,23,Maracanã,Regular presencial,Não,Não
+ALU0934,Gustavo Rocha Costa,CUR01,6,33,Recanto do Sol,Regular presencial,Não,Não
+ALU0935,Thiago Araújo Oliveira,CUR01,5,28,Residencial das Rosas,Regular presencial,Não,Não
+ALU0936,Felipe Gomes Rocha,CUR01,3,17,Setor Industrial,Regular presencial,Sim,Não
+ALU0937,Julia Almeida Gomes,CUR01,5,23,Jundiaí,Regular presencial,Sim,Não
+ALU0938,Eduardo Santos Pereira,CUR01,3,27,Jundiaí,EJA,Não,Sim
+ALU0939,Ana Pereira Araújo,CUR01,1,19,Anápolis City,Regular presencial,Não,Não
+ALU0940,Matheus Teixeira Nunes,CUR01,3,22,Recanto do Sol,Regular híbrido,Sim,Não
+ALU0941,Eduardo Costa Lima,CUR01,2,27,Setor Central,Regular presencial,Sim,Não
+ALU0942,Beatriz Rocha Gomes,CUR01,7,20,Vivian Parque,Regular presencial,Não,Não
+ALU0943,Letícia Lima Teixeira,CUR01,5,23,Vila Jaiara,Regular presencial,Não,Não
+ALU0944,João Lima Souza,CUR01,1,23,Jardim Alexandrina,Regular híbrido,Não,Não
+ALU0945,Gustavo Oliveira Almeida,CUR01,3,20,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0946,Carlos Rodrigues Silva,CUR01,1,34,Setor Central,Regular híbrido,Sim,Não
+ALU0947,Ana Ferreira Rodrigues,CUR01,8,26,Residencial das Rosas,Regular presencial,Não,Não
+ALU0948,Amanda Souza Souza,CUR01,2,17,Residencial das Rosas,Regular presencial,Não,Não
+ALU0949,Luana Ferreira Silva,CUR01,3,32,Filostro Machado,Regular híbrido,Sim,Não
+ALU0950,Carlos Lima Costa,CUR01,2,26,Jardim Alexandrina,Regular presencial,Não,Sim
+ALU0951,Thiago Araújo Gomes,CUR01,3,21,Filostro Machado,Regular presencial,Não,Não
+ALU0952,Matheus Ribeiro Nunes,CUR01,2,21,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0953,Camila Araújo Lima,CUR01,4,24,Anápolis City,EJA,Não,Não
+ALU0954,Beatriz Ferreira Pereira,CUR01,5,31,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0955,João Costa Pereira,CUR01,7,29,Vila Jaiara,Regular presencial,Não,Não
+ALU0956,Pedro Souza Teixeira,CUR01,4,23,Residencial das Rosas,Regular presencial,Não,Não
+ALU0957,Maria Gomes Silva,CUR01,5,20,Paraíso,Regular presencial,Não,Não
+ALU0958,Bruno Silva Costa,CUR01,5,17,Recanto do Sol,Regular híbrido,Não,Não
+ALU0959,Carlos Costa Barbosa,CUR01,6,27,Jundiaí,Regular presencial,Não,Não
+ALU0960,Beatriz Gomes Almeida,CUR01,8,18,Maracanã,Regular presencial,Sim,Não
+ALU0961,Larissa Santos Barbosa,CUR01,3,19,Setor Industrial,EJA,Não,Não
+ALU0962,Mariana Teixeira Almeida,CUR01,3,25,Recanto do Sol,Regular presencial,Não,Não
+ALU0963,Bruno Ferreira Araújo,CUR01,3,24,Maracanã,Regular presencial,Não,Não
+ALU0964,Lucas Silva Mendes,CUR01,5,28,Vila Jaiara,Regular presencial,Não,Não
+ALU0965,Gustavo Carvalho Mendes,CUR01,7,28,São Carlos,EJA,Não,Não
+ALU0966,Rafael Ribeiro Souza,CUR01,6,22,Anápolis City,Regular presencial,Não,Não
+ALU0967,Gabriel Martins Ferreira,CUR01,4,27,Residencial das Rosas,Regular presencial,Não,Não
+ALU0968,Mariana Lima Souza,CUR01,5,17,Jardim Alexandrina,Regular presencial,Sim,Não
+ALU0969,Camila Rocha Ribeiro,CUR01,2,24,Filostro Machado,Regular presencial,Não,Não
+ALU0970,Renato Costa Rodrigues,CUR01,5,18,Anápolis City,Regular presencial,Não,Não
+ALU0971,Luana Oliveira Pereira,CUR01,6,25,Vila Jaiara,Regular presencial,Sim,Não
+ALU0972,Lucas Silva Ferreira,CUR01,3,17,Jibran El Hadj,Regular presencial,Não,Não
+ALU0973,Beatriz Rocha Mendes,CUR01,4,17,Jibran El Hadj,Regular presencial,Não,Não
+ALU0974,Renato Almeida Barbosa,CUR01,3,18,Residencial das Rosas,Regular presencial,Não,Não
+ALU0975,Eduardo Mendes Martins,CUR01,4,18,Residencial das Rosas,Regular presencial,Não,Não
+ALU0976,Luana Martins Santos,CUR01,3,17,Vila Jaiara,Regular presencial,Sim,Sim
+ALU0977,Amanda Pereira Rodrigues,CUR01,1,18,Residencial das Rosas,Regular presencial,Sim,Não
+ALU0978,Rafael Barbosa Pereira,CUR01,7,27,Paraíso,Regular presencial,Não,Não
+ALU0979,Matheus Carvalho Silva,CUR01,6,22,Filostro Machado,Regular presencial,Não,Não
+ALU0980,Eduardo Rocha Souza,CUR01,2,19,Anápolis City,Regular presencial,Não,Sim
+ALU0981,Victor Martins Araújo,CUR01,6,17,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0982,Larissa Pereira Barbosa,CUR01,2,17,Jardim Alexandrina,Regular presencial,Não,Não
+ALU0983,Mariana Ferreira Araújo,CUR01,6,17,Setor Industrial,Regular híbrido,Não,Não
+ALU0984,Carlos Oliveira Rodrigues,CUR01,5,22,Recanto do Sol,Regular presencial,Não,Não
+ALU0985,Amanda Nunes Oliveira,CUR01,8,22,Jardim Alexandrina,EJA,Sim,Não
+ALU0986,Renato Almeida Pereira,CUR01,6,24,Filostro Machado,Regular presencial,Não,Não
+ALU0987,Pedro Rocha Martins,CUR01,5,26,Jibran El Hadj,Regular presencial,Não,Não
+ALU0988,Letícia Santos Ferreira,CUR01,2,20,Anápolis City,Regular presencial,Não,Não
+ALU0989,Julia Oliveira Ferreira,CUR01,5,24,Anápolis City,Regular presencial,Não,Não
+ALU0990,Gustavo Barbosa Nunes,CUR01,1,22,Vila Jaiara,EJA,Não,Não
+ALU0991,Felipe Ferreira Ribeiro,CUR01,2,18,Anápolis City,Regular presencial,Não,Não
+ALU0992,Gabriel Souza Costa,CUR01,3,19,Jardim Alexandrina,Regular presencial,Sim,Não
+ALU0993,Luana Gomes Ferreira,CUR01,4,20,Vila Jaiara,Regular presencial,Não,Não
+ALU0994,Thiago Oliveira Carvalho,CUR01,8,29,São Carlos,Regular presencial,Não,Não
+ALU0995,Mariana Rocha Gomes,CUR01,6,20,Setor Industrial,Regular presencial,Não,Sim
+ALU0996,Victor Araújo Costa,CUR01,1,27,São Carlos,Regular presencial,Não,Não
+ALU0997,Felipe Silva Costa,CUR01,2,19,Residencial das Rosas,Regular presencial,Não,Não
+ALU0998,Felipe Santos Ferreira,CUR01,7,24,Anápolis City,Regular presencial,Não,Não
+ALU0999,Pedro Souza Barbosa,CUR01,8,17,Jardim Alexandrina,Regular presencial,Não,Não
+ALU1000,Lucas Lima Ferreira,CUR01,1,21,Jundiaí,Regular presencial,Não,Não

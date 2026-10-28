@@ -1,0 +1,25 @@
+id_professor,nome,titulacao,area_atuacao,regime_trabalho,email_institucional,data_admissao
+PROF001,Ricardo Almeida Prado,Especialização,Programação,Integral,ricardo.prado@docente.uma.example,2008-08-01
+PROF002,Fernanda Lopes Teixeira,Doutorado,Programação,Integral,fernanda.teixeira@docente.uma.example,2012-02-01
+PROF003,Marcos Vinícius Rocha,Especialização,Programação,Integral,marcos.rocha@docente.uma.example,2021-02-01
+PROF004,Patrícia Nunes Barros,Doutorado,Programação,Integral,patricia.barros@docente.uma.example,2014-02-01
+PROF005,Helena Duarte Campos,Mestrado,Matemática e Estatística,Integral,helena.campos@docente.uma.example,2014-08-01
+PROF006,Eduardo Siqueira Melo,Doutorado,Matemática e Estatística,Horista,eduardo.melo@docente.uma.example,2016-02-01
+PROF007,Luciana Freitas Moura,Doutorado,Matemática e Estatística,Horista,luciana.moura@docente.uma.example,2018-08-01
+PROF008,Rogério Batista Lima,Doutorado,Matemática e Estatística,Integral,rogerio.lima@docente.uma.example,2018-02-01
+PROF009,Juliana Castro Reis,Doutorado,Inteligência Artificial,Horista,juliana.reis@docente.uma.example,2011-08-01
+PROF010,André Luiz Monteiro,Mestrado,Inteligência Artificial,Parcial,andre.monteiro@docente.uma.example,2009-08-01
+PROF011,Carolina Vieira Paiva,Mestrado,Inteligência Artificial,Integral,carolina.paiva@docente.uma.example,2020-02-01
+PROF012,Thiago Moreira Dias,Mestrado,Inteligência Artificial,Parcial,thiago.dias@docente.uma.example,2019-02-01
+PROF013,Renata Cardoso Pires,Especialização,Dados,Integral,renata.pires@docente.uma.example,2009-02-01
+PROF014,Gustavo Henrique Brito,Mestrado,Dados,Integral,gustavo.brito@docente.uma.example,2015-02-01
+PROF015,Aline Correia Fonseca,Doutorado,Dados,Parcial,aline.fonseca@docente.uma.example,2022-08-01
+PROF016,Leandro Pacheco Souto,Doutorado,Dados,Parcial,leandro.souto@docente.uma.example,2019-02-01
+PROF017,Sérgio Antunes Farias,Especialização,Sistemas e Infraestrutura,Parcial,sergio.farias@docente.uma.example,2010-02-01
+PROF018,Mariana Queiroz Leal,Mestrado,Sistemas e Infraestrutura,Integral,mariana.leal@docente.uma.example,2013-08-01
+PROF019,Daniel Ferraz Coelho,Doutorado,Sistemas e Infraestrutura,Parcial,daniel.coelho@docente.uma.example,2015-08-01
+PROF020,Vanessa Rezende Cunha,Doutorado,Sistemas e Infraestrutura,Integral,vanessa.cunha@docente.uma.example,2009-08-01
+PROF021,Cláudia Matos Ventura,Doutorado,Humanidades e Gestão,Parcial,claudia.ventura@docente.uma.example,2010-02-01
+PROF022,Paulo Roberto Sales,Mestrado,Humanidades e Gestão,Parcial,paulo.sales@docente.uma.example,2014-08-01
+PROF023,Beatriz Fontes Amaral,Doutorado,Humanidades e Gestão,Horista,beatriz.amaral@docente.uma.example,2012-08-01
+PROF024,Fábio Torres Medeiros,Doutorado,Humanidades e Gestão,Integral,fabio.medeiros@docente.uma.example,2016-08-01

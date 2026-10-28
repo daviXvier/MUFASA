@@ -1,0 +1,49 @@
+id_materia,id_curso,nome,semestre_grade,carga_horaria_h,media_aprovacao,frequencia_minima_pct
+IA101,CUR01,Lógica de Programação,1,60,6,75
+IA102,CUR01,Algoritmos e Programação I,1,80,6,75
+IA103,CUR01,Cálculo I,1,80,6,75
+IA104,CUR01,Fundamentos de Inteligência Artificial,1,60,6,75
+IA105,CUR01,Matemática Discreta,1,60,6,75
+IA106,CUR01,Comunicação e Ética em Tecnologia,1,40,6,75
+IA201,CUR01,Algoritmos e Programação II,2,80,6,75
+IA202,CUR01,Cálculo II,2,80,6,75
+IA203,CUR01,Álgebra Linear,2,60,6,75
+IA204,CUR01,Estruturas de Dados,2,80,6,75
+IA205,CUR01,Probabilidade e Estatística,2,60,6,75
+IA206,CUR01,Arquitetura de Computadores,2,60,6,75
+IA301,CUR01,Banco de Dados,3,80,6,75
+IA302,CUR01,Programação Orientada a Objetos,3,80,6,75
+IA303,CUR01,Estatística Aplicada,3,60,6,75
+IA304,CUR01,Sistemas Operacionais,3,60,6,75
+IA305,CUR01,Análise de Algoritmos,3,60,6,75
+IA306,CUR01,Python para Ciência de Dados,3,60,6,75
+IA401,CUR01,Aprendizado de Máquina I,4,80,6,75
+IA402,CUR01,Mineração de Dados,4,60,6,75
+IA403,CUR01,Engenharia de Software,4,60,6,75
+IA404,CUR01,Redes de Computadores,4,60,6,75
+IA405,CUR01,Otimização,4,60,6,75
+IA406,CUR01,Visualização de Dados,4,40,6,75
+IA501,CUR01,Aprendizado de Máquina II,5,80,6,75
+IA502,CUR01,Redes Neurais,5,80,6,75
+IA503,CUR01,Processamento de Linguagem Natural,5,60,6,75
+IA504,CUR01,Banco de Dados Não Relacional,5,60,6,75
+IA505,CUR01,Computação em Nuvem,5,60,6,75
+IA506,CUR01,Ética e Regulação em IA,5,40,6,75
+IA601,CUR01,Aprendizado Profundo,6,80,6,75
+IA602,CUR01,Visão Computacional,6,60,6,75
+IA603,CUR01,Big Data,6,60,6,75
+IA604,CUR01,Sistemas Multiagentes,6,60,6,75
+IA605,CUR01,Aprendizado por Reforço,6,60,6,75
+IA606,CUR01,Engenharia de Dados,6,60,6,75
+IA701,CUR01,IA Generativa,7,60,6,75
+IA702,CUR01,MLOps,7,60,6,75
+IA703,CUR01,Robótica Inteligente,7,60,6,75
+IA704,CUR01,Metodologia Científica,7,40,6,75
+IA705,CUR01,Segurança e Privacidade de Dados,7,60,6,75
+IA706,CUR01,Trabalho de Conclusão de Curso I,7,80,6,75
+IA801,CUR01,Trabalho de Conclusão de Curso II,8,80,6,75
+IA802,CUR01,Tópicos Avançados em IA,8,60,6,75
+IA803,CUR01,Empreendedorismo em Tecnologia,8,40,6,75
+IA804,CUR01,Interação Humano-IA,8,60,6,75
+IA805,CUR01,Gestão de Projetos de IA,8,60,6,75
+IA806,CUR01,Estágio Supervisionado,8,120,6,75

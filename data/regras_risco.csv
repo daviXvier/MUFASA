@@ -1,0 +1,12 @@
+id_regra,regra,condicao,pontuacao,interpretacao
+REG01,nota_baixa,media_atual < 6,15,Indicador acadêmico crítico
+REG02,frequencia_baixa,frequencia_pct < 75,15,Risco de reprovação/falta de vínculo
+REG03,queda_desempenho,tendencia_media <= -1,10,Queda relevante vs. período anterior
+REG04,reprovacoes,disciplinas_reprovadas_historico >= 2,10,Repetição de disciplinas
+REG05,pendencias,atividades_pendentes >= 4,8,Acúmulo de atividades
+REG06,financeiro,renda_per_capita < 1500,10,Possível necessidade de apoio
+REG07,jornada_trabalho,horas_trabalho_dia >= 8 e horas_estudo_semana < 7,8,Conciliação trabalho-estudo desfavorável
+REG08,deslocamento,distancia_km >= 20 ou tempo_deslocamento_min >= 90,10,Deslocamento relevante
+REG09,responsabilidades,responsabilidades_familiares_h_semana >= 12,6,Carga familiar relevante
+REG10,apoio,apoio_psicossocial_solicitado = Sim,4,Sinal de necessidade de acolhimento; não é diagnóstico
+REG11,faixas,0-19 baixo; 20-34 moderado; 35-54 alto; 55+ crítico,-,Triagem individual; não sentença de evasão
